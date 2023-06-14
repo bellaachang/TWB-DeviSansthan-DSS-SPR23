@@ -1,0 +1,82 @@
+"model: gpt 3.5
+
+prompts:
+1. Come up with 10 scenario Multiplication question that is similar to this question: Ruba buys 5 books for Rf 45 each. How much does she pay to shopkeeper? with 4 options don't use books and a shopkeeper in your generated examples
+2. now generate 10 questions that are similar except use division, subtraction, or addition
+3. now, put all of your creations in a table, with a column for the question, a column for the answer choices, a column for the answer, a column for the operation used, and the number of answer choices
+4. add a column for the mathematical equation used to find the answer <-- saw a multiplication error, so we asked it to check the answers
+5. now create it again with all of your answers checked",,,,,
+Question,Answer Choices,Answer,Operation,Equation,# of Choices
+Ruba buys 5 books for Rf 45 each. How much does she pay?,a) Rf 200 b) Rf 225 c) Rf 225 d) Rf 250,b) Rf 225,Multiplication,5 x 45,4
+Sara purchases 8 pencils for Rf 10 each. How much does she pay in total?,a) Rf 80 b) Rf 90 c) Rf 100 d) Rf 110,a) Rf 80,Multiplication,8 x 10,4
+A farmer sells 12 bags of apples for Rf 30 each. What is the total amount he receives?,a) Rf 240 b) Rf 300 c) Rf 360 d) Rf 420,b) Rf 300,Multiplication,12 x 30,4
+A teacher gives 15 students 3 chocolates each. How many chocolates were given in total?,a) 45 b) 30 c) 25 d) 20,a) 45,Multiplication,15 x 3,4
+"A construction worker lays 9 bricks in a row, and there are 25 rows. How many bricks did he lay in total?",a) 234 b) 216 c) 225 d) 243,b) 216,Multiplication,9 x 25  ,4
+"A store sells 18 packets of chips, and each packet contains 50 chips. How many chips did the store sell in total?",a) 800 b) 900 c) 1000 d) 1100,c) 900,Multiplication,18 x 50  ,4
+"A company hires 7 workers, and each worker works 6 hours a day for 5 days a week. How many total work hours are completed in a week?",a) 160 b) 175 c) 180 d) 195,b) 175,Multiplication,7 x 6 x 5  ,4
+"A school has 20 classes, and each class has 35 students. How many students are there in total?",a) 700 b) 750 c) 800 d) 850,c) 700,Multiplication,20 x 35  ,4
+"A restaurant sells 15 pizzas per day, and each pizza costs Rf 50. What is the total amount earned by the restaurant in 5 days?",a) Rf 3750 b) Rf 4000 c) Rf 4250 d) Rf 4500,b) Rf 3750,Multiplication,15 x 50 x 5,4
+"prompt:
+create a table with the following columns: question, answer choices, answer, calculation, operation
+
+the questions should have a similar style to this question: ""Ruba buys 5 books for Rf 45 each. How much does she pay to shopkeeper?"" except using a variety of math operations like addition, subtraction, multiplication, and division.
+
+give 4 answer choices, A, B, C, and D
+
+the calculation should show how you got to the answer, WITHOUT the answer in it",,,,,
+"A recipe calls for 3 cups of sugar, and you want to make half of the recipe. How many cups of sugar do you need?",a) 0.5 b) 1 c) 1.5 d) 2,b) 1,Multiplication,3 x 0.5,4
+Ali has 20 marbles and he loses 8 of them. How many marbles does he have now?,a) 8 b) 12 c) 16 d) 18,d) 12,Subtraction,20 - 8,4
+"A company has 500 employees, and they need to cut 20% of their workforce. How many employees will be laid off?",a) 50 b) 100 c) 200 d) 250,c) 100,Multiplication,500 x 0.2,4
+"A rectangular box is 20 cm long, 15 cm wide, and 10 cm high. What is its volume?",a) 3000 cm³ b) 2000 cm³ c) 1500 cm³ d) 1000 cm³,b) 3000 cm³,Multiplication,20 x 15 x 10,4
+"If a store offers a discount of 15% off a shirt that originally costs Rf 60, how much will the shirt cost with the discount?",a) Rf 45 b) Rf 51 c) Rf 54 d) Rf 57,c) Rf 51,Subtraction,Rf 60 x 0.15,4
+"A family is driving to a city that is 120 km away, and they travel at a speed of 60 km/h. How long will it take them to reach the city?",a) 2 h b) 3 h c) 4 h d) 5 h,b) 2 h,Division,120 / 60,4
+"A company makes a profit of Rf 5000 in a year, and their expenses are Rf 3500. What is their net profit?",a) Rf 1500 b) Rf 2500 c) Rf 3500 d) Rf 4500,b) Rf 1500,Subtraction,Rf 5000 - Rf 3500,4
+"A school has 24 students in a class, and they need to form groups of 4. How many groups can they form?",a) 4 b) 6 c) 8 d) 10,c) 6,Division,24 / 4,4
+"A company earns Rf 5000 in revenue, and their expenses are Rf 2500. What is their profit?",a) Rf 2500 b) Rf 3500 c) Rf 4500 d) Rf 5500,a) Rf 2500,Subtraction,Rf 5000 - Rf 2500,4
+A bookstore sells 100 notebooks for Rf 5 each. How much do they earn from selling all the notebooks?,a) Rf 50 b) Rf 500 c) Rf 5000 d) Rf 50000,b) Rf 500,Multiplication,100 x Rf 5,4
+"A recipe calls for 2 eggs and makes 6 muffins. If you want to make 24 muffins, how many eggs do you need?",a) 6 b) 8 c) 12 d) 16,d) 16,Multiplication,2 x 8,4
+"If a store sells 3 pencils for Rf 2, how much will 10 pencils cost?",a) Rf 3 b) Rf 5 c) Rf 6 d) Rf 7,c) Rf 6,Multiplication and Division,Rf 2 x 10 / 3,4
+A garden is 15 m long and 12 m wide. What is its area?,a) 180 m² b) 165 m² c) 150 m² d) 120 m²,a) 180 m²,Multiplication,15 x 12,4
+"A company produces 5000 units of a product every day, and they operate for 5 days a week. How many units are produced in a month?",a) 100000 b) 125000 c) 150000 d) 175000,b) 125000,Multiplication,5000 x 5 x 4,4
+"A jacket originally costs Rf 80, but it's on sale for 30% off. How much will it cost with the discount?",a) Rf 24 b) Rf 56 c) Rf 64 d) Rf 72,b) Rf 56,Multiplication and Subtraction,"Rf 80 x 0.3, Rf 80 - (Rf 80 x 0.3)",4
+A square has an area of 49 cm². What is its perimeter?,a) 7 cm b) 14 cm c) 21 cm d) 28 cm,b) 14 cm,Multiplication,4 x (49**0.5),4
+"If a store sells 10 pens for Rf 5, how much will 3 pens cost?",a) Rf 1.5 b) Rf 2 c) Rf 2.5 d) Rf 3,c) Rf 2.5,Multiplication and Division,Rf 5 x 3 / 10,4
+"A store has a sale, with a discount of 20% off all items. If an item originally costs Rf 50, how much will it cost with the discount?",a) Rf 10 b) Rf 20 c) Rf 30 d) Rf 40,d) Rf 40,Multiplication and Subtraction,"Rf 50 x 0.2, Rf 50 - (Rf 50 x 0.2)",4
+A triangle has a base of 12 cm and a height of 6 cm. What is its area?,a) 6 cm² b) 12 cm² c) 24 cm² d) 36 cm²,c) 24 cm²,Multiplication and Division,12 x 6 / 2,4
+"If a store sells 4 chocolates for Rf 10, how much will 12 chocolates cost?",a) Rf 20 b) Rf 30 c) Rf 40 d) Rf 50,b) Rf 30,Multiplication and Division,Rf 10 x 12 / 4,4
+"A store has 30% off all items for a sale. If an item originally costs Rf 40, how much will it cost with the discount?",a) Rf 12 b) Rf 16 c) Rf 24 d) Rf 28,c) Rf 24,Multiplication and Subtraction,"Rf 40 x 0.3, Rf 40 - (Rf 40 x 0.3)",4
+A car travels 90 km/h for 2 hours. How far did it travel in that time?,a) 45 km b) 90 km c) 135 km d) 180 km,d) 180 km,Multiplication,90 x 2,4
+"A rectangular box has a length of 15 cm, a width of 10 cm, and a height of 5 cm. What is its volume?",a) 500 cm³ b) 750 cm³ c) 1000 cm³ d) 1500 cm³,b) 750 cm³,Multiplication,15 x 10 x 5,4
+"A company has 120 employees, and they need to cut 15% of their workforce. How many employees will be laid off?",a) 12 b) 18 c) 24 d) 36,b) 18,Multiplication,120 x 0.15,4
+"A shirt originally costs Rf 50, but it's on sale for 25% off. How much will it cost with the discount?",a) Rf 12.5 b) Rf 25 c) Rf 37.5 d) Rf 42.5,c) Rf 37.5,Multiplication and Subtraction,"Rf 50 x 0.25, Rf 50 - (Rf 50 x 0.25)",4
+"A store has a sale, with a discount of 15% off all items. If an item originally costs Rf 75, how much will it cost with the discount?",a) Rf 56.25 b) Rf 63.75 c) Rf 78.75 d) Rf 81.25,b) Rf 63.75,Multiplication and Subtraction,"Rf 75 x 0.15, Rf 75 - (Rf 75 x 0.15)",4
+"If a store sells 8 pairs of socks for Rf 20, how much will 2 pairs of socks cost?",a) Rf 2.5 b) Rf 4 c) Rf 5 d) Rf 10,a) Rf 2.5,Multiplication and Division,Rf 20 / 8 x 2,4
+"A pizza is cut into 8 equal slices. If 3 slices are eaten, how much of the pizza is left?",a) 25% b) 37.5% c) 50% d) 62.5%,d) 62.5%,Subtraction and Division,"5 slices out of 8, 5 / 8 = 0.625",4
+"A company makes a profit of Rf 5000 in a month, and their expenses are Rf 3000. What is their profit margin?",a) 50% b) 60% c) 70% d) 80%,b) 60%,Division,Rf 5000 / Rf 8000,4
+A rectangle has a length of 20 cm and a width of 12 cm. What is its perimeter?,a) 32 cm b) 48 cm c) 64 cm d) 80 cm,b) 48 cm,Addition and Multiplication,2 x (20 + 12),4
+"If a store sells 2 items for Rf 10, how much will 6 items cost?",a) Rf 15 b) Rf 18 c) Rf 20 d) Rf 30,b) Rf 18,Multiplication and Division,Rf 10 x 6 / 2,4
+"A company has a total of 150 employees, and 25% of them are managers. How many managers does the company have?",a) 15 b) 25 c) 35 d) 50,c) 35,Multiplication,150 x 0.25,4
+"A jar contains 500 g of candies, and 50 g of candies are eaten. What percentage of the candies is left in the jar?",a) 90% b) 80% c) 70% d) 60%,b) 80%,Subtraction and Division,"450 / 500 = 0.9 = 90%, 100% - 90% = 10%, 100% - 10% = 90%",4
+"A company has a total of Rf 10000 in revenue, and their expenses are Rf 6000. What is their profit margin?",a) 30% b) 40% c) 50% d) 60%,b) 40%,Subtraction and Division,(Rf 10000 - Rf 6000) / Rf 10000,4
+"If a store sells 5 boxes of pencils for Rf 100, how much will 3 boxes cost?",a) Rf 30 b) Rf 50 c) Rf 60 d) Rf 75,b) Rf 50,Multiplication and Division,Rf 100 / 5 x 3,4
+A car travels 120 km/h for 2.5 hours. How far did it travel in that time?,a) 250 km b) 300 km c) 325 km d) 350 km,b) 300 km,Multiplication,120 x 2.5,4
+"A company makes a profit of Rf 8000 in a month, and their revenue is Rf 20000. What is their profit margin?",a) 20% b) 30% c) 40% d) 50%,c) 40%,Division,Rf 8000 / Rf 20000,4
+"A cake is cut into 12 equal slices. If 4 slices are eaten, how much of the cake is left?",a) 33.3% b) 50% c) 66.6% d) 75%,c) 66.6%,Subtraction and Division,"8 slices out of 12, 8 / 12 = 0.666",4
+A rectangle has a length of 25 cm and a width of 15 cm. What is its perimeter?,a) 35 cm b) 50 cm c) 70 cm d) 80 cm,c) 70 cm,Addition and Multiplication,2 x (25 + 15),4
+"model: gpt 4
+
+prompts:
+1. create a table with the following columns: question, answer choices, answer, calculation, operation 
+
+the questions should have a similar style to this question: ""Ruba buys 5 books for Rf 45 each. How much does she pay to shopkeeper?"" except using a variety of math operations like addition, subtraction, multiplication, and division.
+
+give 4 answer choices, A, B, C, and D
+
+the calculation should show how you got to the answer, WITHOUT the answer in it
+
+2. change the format to have all the answer choices in one cell instead of having a separate row for each answer choice. write the correct answer choice (for example, A. 226) in a separate column to the right",,,,,
+Ruba buys 5 books for Rf 45 each. How much does she pay to shopkeeper?,"A. Rf 215, B. Rf 225, C. Rf 235, D. Rf 245",B. Rf 225,Multiplication,5 * 45,
+Peter has $120 saved up. He spends $35 on a gift. How much money does he have left?,"A. $85, B. $95, C. $105, D. $115",A. $85,Subtraction,120 - 35,
+Sarah has 8 candy bars. She wants to divide them equally among her 4 friends. How many candy bars does each friend get?,"A. 1, B. 2, C. 3, D. 4",B. 2,Division,8 / 4,
+"Tom found 12 coins on the beach. Later, he found 18 more. How many coins did he find in total?","A. 25, B. 28, C. 30, D. 35",C. 30,Addition,12 + 18,
+A pizza has 16 slices. Each person at the party eats 4 slices. How many people can be served at the party?,"A. 2, B. 3, C. 4, D. 5",C. 4,Division,16 / 4,
