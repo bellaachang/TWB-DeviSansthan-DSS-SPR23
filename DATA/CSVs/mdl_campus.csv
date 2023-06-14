@@ -1,0 +1,573 @@
+id,user_id,schooluser_id,school_id,campus_name,contact_person,email,mobile,house_no,street_name,landmark,country,state,city,course_id,pincode,password_string,certificate_percentage,timecreated,timemodified
+1,4,3,1,Jopling Road,Shipra Upadhyay,shipra@cms.org,9235548090,Jopling Road Campus,Jopling Road,"Opposite Skyotel Hotel, Near Parag Dairy",1,31,589,"16,17,49,50",226001,jopling@123,100,2022-04-25 13:38:12,2022-10-15 14:58:14
+2,7,3,1,Aliganj 1,Jyoti Kashyap,aliganj1@cms.org,8009356922,Harmony Building,Sector 'O' Aliganj,Sector 'O',1,31,589,"16,17,49,50",226020,aliganj1@123,0,2022-04-25 13:50:27,2022-10-15 14:58:57
+3,8,3,1,Aliganj 2,Samvida Adhikari,aliganj2@cmseducation.org,9115355777,"A-7, Sector-B",Aliganj,Aliganj,1,31,589,"16,17,49,50",226024,aliganj2@123,0,2022-04-25 13:53:13,2022-10-15 14:59:28
+4,9,3,1,Anand Nagar,Reena Soti,anandnagar@cmseducation.org,8419007303,Jail Road,"Alambagh, Anand Nagar","Alambagh, Anand Nagar",1,31,589,"16,17,49,50",226005,anand_nagar@123,100,2022-04-25 13:57:51,2022-10-15 15:00:21
+5,10,3,1,Asharfabad,Trapti Dwivedi,asharfabad@cmseducation.org,8707647085,Asharfabad new campus,Mansoor Nagar,,1,31,589,"16,17,49,50",226003,asharfabad@123,0,2022-04-25 14:01:06,2022-10-18 14:34:08
+6,11,3,1,Chowk,Aditi Sharma ,chowk@cmseducation.org,8896001784,Opp. Kali Charan Degree College,Hardoi Road,,1,31,589,"16,17,49,50",226003,Chowk@12345,0,2022-04-25 15:17:54,2022-10-18 14:34:59
+7,12,3,1,Gomti Nagar1,Abha Anant,gomtinagar1@cmseducation.org,9519999531,Global Understanding Building,Vishal Khand-2,,1,31,589,"16,17,49,50",226010,gomtinagar@123,0,2022-04-25 15:22:41,2022-10-18 14:34:59
+8,13,3,1,Gomti Nagar2,Manjit Batra,gomtinagar2@cmseducation.org,8318727784,Gomti Nagar Campus II,"1/7 Vardhan Khand, Phase II",,1,31,589,"16,17,49,50",226010,gomtinagar2@123,0,2022-04-25 15:26:49,2022-10-18 14:34:59
+9,15,3,1,Indira Nagar,Ruchi Bhuwan Joshi,indiranagar@cmseducation.org,7007236930,Communal Harmony Building,"A-663, Indira Nagar",,1,31,589,"16,17,49,50",226016,indiranagar@123,0,2022-04-25 15:30:11,2022-10-18 14:34:59
+10,18,3,1,Kanpur Road,Vineeta Kamran,kanpurroad@cmseducation.org,7376811251,Quality Building," LDA Colony, Kanpur Road",,1,31,589,"16,17,49,50",226012,kanpurroad@123,0,2022-04-25 15:33:50,2022-10-18 14:34:59
+11,19,3,1,Mahanagar,Kalpana Tripathi,mahanagar@cmseducation.org,9415242611,"90-A, Mahanagar",Mahanagar Campus  ,,1,31,589,"16,17,49,50",226006,Mahanagar@123,0,2022-04-25 15:38:20,2022-10-18 14:34:59
+12,20,3,1,Rajajipuram1,Nisha Pandey,rajajipuram1@cmseducation.org,9170009762,"Friendship Building, Sector-1",Rajajipuram Campus I , Opposite Talkatora Thana,1,31,589,"16,17,49,50",226017,rajajipuram1_cms,0,2022-04-25 15:44:03,2022-10-18 14:34:59
+13,21,3,1,Rajajipuram2,Anupama Checker,rajajipuram2@cmseducation.org,9918476363,"Serenity Building, C-1889, Rajajipuram",Rajajipuram Campus2,,1,31,589,"16,17,49,50",226017,rajajipuram2@123,0,2022-04-25 15:48:35,2022-10-18 14:34:59
+14,22,3,1,Rajendra Nagar,Jayashree Krishnan,rajendranagar1@cmseducation.org,7007553849,"Peace Building, Rajendra Nagar",Rajendra Nagar Campus I,,1,31,589,"16,17,49,50",226004,rajendranagar@123,0,2022-04-25 15:52:16,2022-10-18 14:34:59
+15,23,3,1,Rajendra Nagar2,Shameem Singh,rajendranagar2@cmseducation.org,9453849796, Kindness Building  ,Rajendra Nagar,,1,31,589,"16,17,49,50",226004,rajendranagar2@123,0,2022-04-25 15:56:20,2022-10-18 14:34:59
+16,24,3,1,RDSO,Jyotsna Atul,rdso@cmseducation.org,7309179491,Wisdom Building  ,"Manak Nagar,",,1,31,589,"16,17,49,50",226011,rdso@123,0,2022-04-25 15:59:39,2022-10-18 14:34:59
+17,26,3,1,Station Road,Deepali Gautam,stationroad@cmseducation.org,8052934416,Vasudhaiv Kutumbukam Building,"11, Station Road",,1,31,589,"16,17,49,50",226001,stationroad@123,0,2022-04-25 16:04:31,2022-10-18 14:34:59
+18,28,3,1,Golf City,Reema Sethi,golfcity@cmseducation.org,7704920612,"Sector C, Golf City, Pocket 9",Pocket 9,,1,31,589,"16,17,49,50",226030,golfcity@123,0,2022-04-25 16:08:42,2022-10-18 14:34:59
+19,28854,3,1,United World Campus,Mrs Kanika Kapoor,uws@cmseducation.org,0,"183, Sector 15,","Block C, Indira Nagar,",,1,31,589,"16,17,49,50",226016,uws@123,0,2022-05-04 10:24:06,2022-10-18 14:34:59
+20,28855,3,1,Cambridge Gomti Nagar2,Ms. Manjit Batra,cambridge@cmseducation.org,8604981249,1/7 Vardhan Khand,"Phase II, Gomtinagar",,1,31,589,"16,17,49,50",226010,cambridge@123,0,2022-05-04 10:37:26,2022-10-18 14:34:59
+21,29230,29229,3,CIS Manas City,Carmel Yaganagi,cislucknow@gmail.com,9115099992,,Manas City,,1,31,589,"16,17,49,50",226015,cis@manascity,0,2022-05-05 16:30:47,2022-10-18 14:34:59
+22,34670,3,1,Cambridge Rajajipuram1,Nisha Pandey,rajajipuram@cmseducation.org,8604981249,1/7 Vardhan Khand,"Phase II, Gomtinagar",,1,31,589,"16,17,49,50",226010,cambridge@rajajipuram,0,2022-05-12 11:02:51,2022-10-18 14:34:59
+23,35362,29229,3,CIS Jaipur,Manoj Verma,manoj.verma@ciseducation.org,9829397779,Plot No. 5,"Sector 28, Pratap Nagar",,1,29,473,"16,17,49,50",302033,cis@jaipur,0,2022-05-14 14:44:54,2022-10-18 14:34:59
+24,36812,36811,4,Gram Panchayat Muraiya Bujurg,Harinath Singh,modelgaonindia@gmail.com,9793073536,,Muraiya Bujurg,,1,31,579,"16,17,49,50",209727,gp@muraiya,0,2022-05-30 11:22:08,2022-10-18 14:34:59
+25,36814,36811,4,Gram Panchayat Sahora,Dr Satya Veer Singh,modelgaonindia@gmail.com,9759826464,,Sahora,,1,31,561,"16,17,49,50",242401,gp@sahora,100,2022-05-30 12:42:31,2022-10-18 14:34:59
+26,37314,5,2,SIS Lucknow,SIS Lucknow,saurabh@globalmail.in,9235620009,,lko,,1,31,589,"16,17,49,50",226015,sislko,100,2022-06-14 10:22:03,2022-10-18 14:34:59
+37,0,0,16,Navyug Kids,NULL,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL,"16,17,49,50",NULL,NULL,0,2022-07-23 9:44:54,2022-10-18 14:34:59
+41,0,0,20,New public school,NULL,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL,"16,17,49,50",NULL,NULL,0,2022-07-23 11:30:14,2022-10-18 14:34:59
+43,0,0,22,City Montessori School,NULL,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL,"16,17,49,50",NULL,NULL,0,2022-07-23 21:56:29,2022-10-18 14:34:59
+44,0,0,23,Noorul Islam Niswan School,NULL,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL,"16,17,49,50",NULL,NULL,0,2022-07-24 13:59:12,2022-10-18 14:34:59
+45,0,0,24,cms,NULL,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL,"16,17,49,50",NULL,NULL,0,2022-07-27 14:42:25,2022-10-18 14:34:59
+46,0,0,25,Jaipuria,NULL,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL,"16,17,49,50",NULL,NULL,0,2022-07-31 13:00:15,2022-10-18 14:34:59
+51,48983,3,1,CMS Ayodhya Road,Nupur Dawara,ayodhyaroad@cmseducation.org,7704068774,,Ayodhya Road,,1,31,589,"16,17,49,50",260001,cms_ayodhyaroad,100,2022-08-04 11:16:41,2022-10-18 14:34:59
+52,0,0,30,Jagran public school,NULL,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL,"16,17,49,50",NULL,NULL,0,2022-08-04 17:31:50,2022-10-18 14:34:59
+54,0,0,32,Example,NULL,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL,"16,17,49,50",NULL,NULL,0,2022-08-05 6:16:55,2022-10-18 14:34:59
+55,51427,51424,34,jamaluddin Campus,Hassan Mohamed,hassan@gmail.com,7894561235,,test,test,2,38,657,"30,31,32,33,34,35",789456,123456,100,2022-08-09 13:46:23,2022-11-18 16:21:15
+56,53226,53223,35,Maldives_DemoCampus,Maldives_Demo Campus,maldives_campus@globalmail.in,110110110,,.,.,2,38,657,"30,31,32,33,34,35",123,maldives_campus,100,2022-08-17 17:42:02,2022-10-15 14:56:56
+57,55355,55177,43,Baarashu School ,Abdulla  Ahmed,principal@baarashuschool.edu.mv,7901547,,,,2,39,669,,,maldives@123,80,2022-09-21 15:44:28,2022-09-21 15:44:28
+58,55358,55235,100,Alifushi School ,Hassan Yoosuf,principal@alifushischool.edu.mv,9922611,,,,2,39,669,,,maldives@123,80,2022-09-21 16:05:21,2022-09-21 16:05:21
+59,55359,55227,92,Angolhitheemu School ,Mohamed Nasih,principal@angolhitheemuschool.edu.mv,7730119,,,,2,40,673,,,maldives@123,80,2022-09-21 16:11:46,2022-09-21 16:11:46
+60,55360,55304,169,Bandidhoo School ,Adam  Saeedh,principal@bandidhooschool.edu.mv,7704505,,,,2,44,677,,,maldives@123,80,2022-09-21 16:19:16,2022-09-21 16:19:16
+61,55365,55205,70,Bileyffahi,Azleena Gasim,principal@bileffaheeschool.edu.mv,7536104,,,,2,39,671,,,maldives@123,80,2022-09-21 16:55:34,2022-09-21 16:55:34
+62,55366,55271,136,Bodufolhudhoo School ,Moosa  Nimaal,principal@bodufolhudhooschool.edu.mv,9995046,,,,2,43,666,,,maldives@123,80,2022-09-21 17:00:30,2022-09-21 17:00:30
+63,55367,55313,178,Burunee School ,Ali  Mohamed Manik,principal@buruneeschool.edu.mv,7920567,,,,2,44,678,,,maldives@123,80,2022-09-21 17:04:03,2022-09-21 17:04:03
+64,55368,55337,201,Dhaandhoo School ,Faheema  Ahmed,principal@dhaandhooschool.edu.mv,7970807,,,,2,45,680,,,maldives@123,80,2022-09-21 17:33:19,2022-09-21 17:33:19
+65,55369,55330,194,Dhanbidhoo School,Ibrahim Shaafee,principal@dhanbidhooschool.edu.mv,9702626,,,,2,44,679,,,maldives@123,80,2022-09-21 17:37:21,2022-09-21 17:37:21
+66,55370,55280,145,Dhangethee School,Aminath  Nathasha,principal@dhangethischool.edu.mv,7434561,,,,2,43,667,,,maldives@123,80,2022-09-21 17:47:52,2022-09-21 17:47:52
+67,55371,55299,164,Dharanboodhoo School ,Hassan  Adam,principal@dharanboodhooschool.edu.mv,7840050,,,,2,44,676,,,maldives@123,80,2022-09-21 17:53:38,2022-09-21 17:53:38
+68,55372,55242,107,B.Atoll School,Naazneen  Abdulla Didi,principal@batollschool.edu.mv,7641167,,,,2,40,674,,,maldives@123,80,2022-09-21 17:57:20,2022-09-21 17:57:20
+69,55373,55338,202,Madhrasathul Sulthan Mohamed ,Ali  Muneeru,principal@msm.edu.mv,7910163,,,,2,45,680,,,maldives@123,80,2022-09-21 18:02:33,2022-09-21 18:02:33
+70,55374,55174,41,Ha. Atoll Education Centre,Mohamed  Matheen,principal@haaec.edu.mv,7430543,,,,2,39,669,,,maldives@123,80,2022-09-21 18:09:48,2022-09-21 18:09:48
+71,55375,55174,41,Dhidhdhoo School ,Ahmed  Hafiz,principal@adhdhidhooschool.edu.mv,9880985,,,,2,43,667,,,maldives@123,80,2022-09-21 18:19:40,2022-09-21 18:19:40
+72,55376,55264,129,Dhiffushi School,Mohmad Inad,principal@dhiffushischool.edu.mv,9966085,,,,2,43,665,,,maldives@123,80,2022-09-21 18:23:26,2022-09-21 18:23:26
+73,55377,55290,155,Dhiggaru School,Ismail  Abdulla,principal@dhiggaruschool.edu.mv,7904489,,,,2,44,675,,,maldives@123,80,2022-09-21 18:32:34,2022-09-21 18:32:34
+74,55378,55282,147,Dhigurah School,Zeenath  Naseer ,principal@dhigurahschool.edu.mv,7480508,,,,2,43,667,,,maldives@123,80,2022-09-21 18:36:42,2022-09-21 18:36:42
+75,55379,55308,173,Dhiyamigili School ,Yousuf  Zakariyya,principal@dhiyamigilischool.edu.mv,7755913,,,,2,44,678,,,maldives@123,80,2022-09-21 18:39:42,2022-09-21 18:39:42
+76,55380,55240,105,R. Atoll school ,Ahmed  Nahid,principal@ratollschool.edu.mv,7921055,,,,2,40,673,,,maldives@123,80,2022-09-21 18:47:46,2022-09-21 18:47:46
+77,55381,55240,105,Duvaafaru Primary School ,Mohamed Shukree,principal@dhuvaafaruprimaryschool.edu.mv,7596691,,,,2,40,673,,,maldives@123,80,2022-09-21 18:51:34,2022-09-21 18:51:34
+78,55382,55243,108,Dhonfanu School ,Edwin  Raj,principal@dhonfanuschool.edu.mv,7623263,,,,2,40,674,,,maldives@123,80,2022-09-21 18:54:51,2022-09-21 18:54:51
+79,55383,55241,106,B.Atoll Eduction Centre ,Ahmed Rafeeu,principal@baec.edu.mv,7774463,,,,2,40,674,,,maldives@123,80,2022-09-21 18:59:06,2022-09-21 18:59:06
+80,55384,55228,93,Fainu School,Ahmed Shareef,principal@fainuschool.edu.mv,7708287,,,,2,40,673,,,maldives@123,80,2022-09-22 11:05:08,2022-09-22 11:05:08
+81,55385,55347,211,Huvadhoo School ,Sasi  Kumar,principal@huvadhooschool.edu.mv,9932640,,,,2,45,681,,,maldives@123,80,2022-09-22 11:09:56,2022-09-22 11:09:56
+82,55386,55296,161,F. Atoll School ,Abdul  Sathar,principal@fatollschool.edu.mv,7900087,,,,2,44,676,,,maldives@123,80,2022-09-22 11:14:26,2022-09-22 11:14:26
+83,55387,55202,67,Feevaku,Tahniyath Beygum,principal@feevakuschool.edu.mv,7970786,,,,2,39,671,,,maldives@123,80,2022-09-22 12:08:04,2022-09-22 12:08:04
+84,55388,55284,149,V. Atoll Education Centre,Mohamed  Hameed ,principal@vaec.edu.mv,7740369,,,,2,43,668,,,maldives@123,80,2022-09-22 12:12:11,2022-09-22 12:12:11
+85,55389,55283,148,Fenfushee School,Mohamed  Khalid,principal@fenfusheeschool.edu.mv,9838123,,,,2,43,667,,,maldives@123,80,2022-09-22 12:14:42,2022-09-22 12:14:42
+86,55390,55267,132,Aa. Atoll School ,Ibrahim  Mufeed ,principal@aaatollschool.edu.mv,7996361,,,,2,43,666,,,maldives@123,80,2022-09-22 12:18:22,2022-09-22 12:18:22
+87,55391,55206,71,Feydhoo,Achunkunju David,principal@shfeydhooschool.edu.mv,7652392,,,,2,39,671,,,maldives@123,80,2022-09-22 12:20:49,2022-09-22 12:20:49
+88,55393,55173,40,Filladhoo School,Moosa  Shaheem,principal@sobaahschool.edu.mv,9720501,,,,2,39,669,,,maldives@123,80,2022-09-22 12:49:00,2022-09-22 12:49:00
+89,55398,55215,80,Fodhdhoo School ,Pathirannahalage  Ajith Thushara Pathirana,principal@fodhdhooschool.edu.mv,7763064,,,,2,40,672,,,maldives@123,80,2022-09-22 13:29:37,2022-09-22 13:29:37
+90,55399,55319,184,L. Atoll Education Centre,Abdulla  Naseeh,principal@laec.edu.mv,7941988,,,,2,44,679,,,maldives@123,80,2022-09-22 13:34:11,2022-09-22 13:34:11
+91,55400,55349,213,Gn. Atoll Education Centre ,Ismail Saudulla,principal@gnaec.edu.mv,9797090,,,,2,45,682,,,maldives@123,80,2022-09-22 13:38:15,2022-09-22 13:38:15
+92,55401,55349,213,Fuvahmulaku School,Hassan  Zareer,principal@fuvahmulakuschool.edu.mv,7798390,,,,2,45,682,,,maldives@123,80,2022-09-22 13:47:57,2022-09-22 13:47:57
+93,55402,55349,213,Mohamed Jamaluddin School ,Arifa  Abdul Majeed,principal@mjm.edu.mv,7779549,,,,2,45,682,,,maldives@123,80,2022-09-22 13:50:22,2022-09-22 13:50:22
+94,55403,55349,213,Hafiz Ahmed School,Mohamed  Siraj,principal@hafizahmed.edu.mv,7915296,,,,2,45,682,,,maldives@123,80,2022-09-22 13:52:31,2022-09-22 13:52:31
+95,55404,55244,109,Fulhadhoo School,Ahmed  Ashraf ,principal@fulhadhooschool.edu.mv,7951506,,,,2,40,674,,,maldives@123,80,2022-09-22 13:55:21,2022-09-22 13:55:21
+96,55405,55285,150,V.Atoll School,Helen  Mary,principal@vatollschool.edu.mv,9677892,,,,2,43,668,,,maldives@123,80,2022-09-22 13:57:53,2022-09-22 13:57:53
+97,55406,55211,76,Funadhoo,Mohamed  Siraj,principal@funadhooschool.edu.mv,9775674,,,,2,39,671,,,maldives@123,80,2022-09-22 14:00:48,2022-09-22 14:00:48
+98,55409,55318,183,Gaadhiffushi School ,Mohamed  Haneef,principal@gaadhiffushischool.edu.mv,7904937,,,,2,44,678,,,maldives@123,80,2022-09-22 15:24:59,2022-09-22 15:24:59
+99,55410,55263,128,Gaafaru School ,Abdulla  Khaleel,principal@gaafaruschool.edu.mv,9867878,,,,2,43,665,,,maldives@123,80,2022-09-22 15:29:31,2022-09-22 15:29:31
+100,55411,55340,204,G.Dh Atoll School ,Fathimath  Nahidha,principal@gdhatollschool.edu.mv,7939129,,,,2,45,681,,,maldives@123,80,2022-09-22 15:32:56,2022-09-22 15:32:56
+101,55412,55323,187,Hamad Bin Khaleefa Al Saanee ,Mohamed  Shaukath,principal@hamadschool.edu.mv,7778703,,,,2,44,679,,,maldives@123,80,2022-09-22 15:38:12,2022-09-22 15:38:12
+102,55413,55323,187,Ihadhdhoo School ,Mohamed Nazeel,principal@ihadhdhooschool.edu.mv,7992382,,,,2,44,679,,,maldives@123,80,2022-09-22 15:40:36,2022-09-22 15:40:36
+103,55414,55331,195,Mukurimagu School ,Abdulla  Shareef,principal@mukurimaguschool.edu.mv,7904211,,,,2,44,679,,,maldives@123,80,2022-09-22 15:48:24,2022-09-22 15:48:24
+104,55415,55339,203,Gemanafushi School ,Aslam Hussain,principal@gemanafushischool.edu.mv,7782730,,,,2,45,680,,,maldives@123,80,2022-09-22 15:51:24,2022-09-22 15:51:24
+105,55417,55207,72,Goidhoo School,Mohamed  Nizaam,principal@bgoidhooschool.edu.mv,9873333,,,,2,40,674,,,maldives@123,80,2022-09-22 15:58:59,2022-09-22 15:58:59
+106,55418,55265,130,Gulhi School,Ahmed  Adheel ,principal@gulheeschool.edu.mv,9731626,,,,2,43,665,,,maldives@123,80,2022-09-22 16:02:22,2022-09-22 16:02:22
+107,55419,55262,127,Guraidhoo School ,Abdul  Nasir Mohamed,principal@kguraidhooschool.edu.mv,7779582,,,,2,43,665,,,maldives@123,80,2022-09-22 16:07:05,2022-09-22 16:07:05
+108,55421,55276,141,Hangnaameedhoo School ,George  Thomas ,principal@hangnaameedhooschool.edu.mv,9686419,,,,2,43,667,,,maldives@123,80,2022-09-22 16:15:32,2022-09-22 16:15:32
+109,55422,55188,53,Hanimaadhoo School ,Hanimaadhoo Abdul Muhusin ,Abdul Latheef,9907020,,,,2,43,667,,,maldives@123,80,2022-09-22 16:20:49,2022-09-22 16:20:49
+110,55423,55216,81,Henbadhoo School,Ilham  Ali,principal@henbadhooschool.edu.mv,7796894,,,,2,40,672,,,maldives@123,80,2022-09-22 16:24:41,2022-09-22 16:24:41
+111,55425,55261,126,Himmafushee School ,Mohamed  Arif,principal@himmafushischool.edu.mv,7900450,,,,2,43,665,,,maldives@123,80,2022-09-22 16:31:30,2022-09-22 16:31:30
+112,55427,55311,176,Hirilandhoo School,Ahmed  Ahmed ,principal@hirilandhooschool.edu.mv,9888846,,,,2,44,678,,,maldives@123,80,2022-09-22 16:41:49,2022-09-22 16:41:49
+113,55428,55194,59,Hirimaradhoo School,Ibrahim  Nasheed,principal@hirimaradhooschool.edu.mv,9889982,,,,2,39,670,,,maldives@123,80,2022-09-22 16:45:04,2022-09-22 16:45:04
+114,55429,55194,59,Hirimaradhoo School,Ibrahim  Nasheed,principal@hirimaradhooschool.edu.mv,9889982,,,,2,39,670,,,maldives@123,80,2022-09-22 16:49:30,2022-09-22 16:49:30
+115,55430,55246,111,Hithaadhoo School,Ibrahim  Rasheedh,principal@hithaadhooschool.edu.mv,7947145,,,,2,40,674,,,maldives@123,80,2022-09-22 16:56:32,2022-09-22 16:56:32
+116,55431,55324,188,Hithadhoo School,Abdulla  Muiz,principal@lhithadhooschool.edu.mv,7905759,,,,2,44,679,,,maldives@123,80,2022-09-22 16:58:54,2022-09-22 16:58:54
+117,55432,55324,188,Sharafuddin School ,Hussain  Musawwir,principal@sharafuddin.edu.mv,7994015,,,,2,45,683,,,maldives@123,80,2022-09-22 17:01:22,2022-09-22 17:01:22
+118,55433,55324,188,Hithadhoo School,Dr. Asiyath Mohamed Didi,principal@hithadhooschool.edu.mv,7778691,,,,2,45,683,,,maldives@123,80,2022-09-22 17:05:08,2022-09-22 17:05:08
+119,55434,55324,188,Nooranee School,Sultan  Ramiz,principal@nooraaneeschool.edu.mv,7946010,,,,2,45,683,,,maldives@123,80,2022-09-22 17:07:11,2022-09-22 17:07:11
+120,55435,55342,206,Hoadedhdhoo School ,Midhathulla  Abdulla,principal@hoadedhdhooschool.edu.mv,9597777,,,,2,45,681,,,maldives@123,80,2022-09-22 17:39:55,2022-09-22 17:39:55
+121,55437,55217,82,Meyna School,Ibrahim  Shaheem,principal@meyna.edu.mv,9895889,,,,2,40,672,,,maldives@123,80,2022-09-22 17:47:15,2022-09-22 17:47:15
+122,55438,55302,167,Hulhudheli School ,Jamsheed  Rasheed,principal@hulhudhelischool.edu.mv,9997379,,,,2,44,677,,,maldives@123,80,2022-09-22 17:50:28,2022-09-22 17:50:28
+123,55440,55260,125,Huraa School ,Aminath  Areesha,principal@huraaschool.edu.mv,7957327,,,,2,43,665,,,maldives@123,80,2022-09-22 18:10:03,2022-09-22 18:10:03
+124,55441,55177,43,Ihavandhoo School,Ahmed  Rasheed,principal@ihavandhooschool.edu.mv,7938108,,,,2,39,669,,,maldives@123,80,2022-09-22 18:14:09,2022-09-22 18:14:09
+125,55442,55229,94,Inguraidhoo School ,Saeed  Ibrahim,principal@inguraidhooschool.edu.mv,9812866,,,,2,40,673,,,maldives@123,80,2022-09-22 18:17:09,2022-09-22 18:17:09
+126,55443,55230,95,Innamaadhoo School ,Aishath  Sama ,principal@innamaadhooschool.edu.mv,7440575,,,,2,40,673,,,maldives@123,80,2022-09-22 18:19:42,2022-09-22 18:19:42
+127,55446,55258,123,K. Atoll School ,Mohamed  Natheem,principal@katollschool.edu.mv,7909068,,,,2,43,665,,,maldives@123,80,2022-09-22 18:39:14,2022-09-22 18:39:14
+128,55448,55201,66,Kanditheem,Ahmed  Faisal,principal@shatollschool.edu.mv,7913800,,,,2,39,671,,,maldives@123,80,2022-09-22 18:44:29,2022-09-22 18:44:29
+129,55449,55314,179,Kandoodhoo School ,Fathimath Shahuma  Abdul Raheem,principal@kandoodhooschool.edu.mv,9658287,,,,2,44,678,,,maldives@123,80,2022-09-22 18:46:56,2022-09-22 18:46:56
+130,55450,55335,199,Kanduhulhudhoo School ,Nair  Ajith Shivadasam,principal@kanduhulhudhooschool.edu.mv,7517689,,,,2,45,680,,,maldives@123,80,2022-09-22 18:48:57,2022-09-22 18:48:57
+131,55452,55218,83,Kendhikulhudhoo School,Mohamed  Shareef,principal@kendhikulhudhooschool.edu.mv,9120545,,,,2,40,672,,,maldives@123,80,2022-09-22 18:54:46,2022-09-22 18:54:46
+132,55453,55248,113,Kendhoo School ,Ali  Ahusan,principal@kendhooschool.edu.mv,7991214,,,,2,40,674,,,maldives@123,80,2022-09-22 18:57:06,2022-09-22 18:57:06
+133,55456,55309,174,Kinbidhoo School ,Ahmed  Abdulla,principal@kinbidhooschool.edu.mv,9897200,,,,2,44,678,,,maldives@123,80,2022-09-22 19:04:25,2022-09-22 19:04:25
+134,55457,55231,96,Kinolhahu School ,Mohamed  Waseem,principal@kinolhahuschool.edu.mv,9798992,,,,2,40,673,,,maldives@123,80,2022-09-22 19:06:45,2022-09-22 19:06:45
+135,55458,55288,153,M. Atoll School ,Anwary  Ali ,principal@matollschool.edu.mv,9769597,,,,2,44,675,,,maldives@123,80,2022-09-22 19:12:19,2022-09-22 19:12:19
+136,55459,55200,65,Komanndoo,Hassan  Nashid,principal@shaec.edu.mv,9491041,,,,2,39,671,,,maldives@123,80,2022-09-22 19:14:47,2022-09-22 19:14:47
+137,55460,55334,198,Konday School ,Kinaanath  Gasim,principal@kondeyschool.edu.mv,9997547,,,,2,45,680,,,maldives@123,80,2022-09-23 14:00:55,2022-09-23 14:00:55
+138,55461,55278,143,Kunburudhoo School ,Ahmed  Niyaz,principal@kunburudhooschool.edu.mv,7906883,,,,2,43,667,,,maldives@123,80,2022-09-23 14:04:28,2022-09-23 14:04:28
+139,55462,55219,84,Kudafaree School ,Ahmed  Hussain,principal@kudafareeschool.edu.mv,9863993,,,,2,40,672,,,maldives@123,80,2022-09-23 14:08:19,2022-09-23 14:08:19
+140,55463,55300,165,Dh. Atoll Education Centre ,Hamzath Hamzath,principal@dhaec.edu.mv,7904515,,,,2,44,677,,,maldives@123,80,2022-09-23 14:11:53,2022-09-23 14:11:53
+141,55465,55186,51,Afeefudin School ,Nasiha Idhrees,principal@afeefuddin.edu.mv,7791960,,,,2,39,670,,,maldives@123,80,2022-09-23 15:14:54,2022-09-23 15:14:54
+142,55466,55186,51,Jalaaludin school,Aminath  Mohamed,principal@jalaluddin.edu.mv,9877664,,,,2,39,670,,,maldives@123,80,2022-09-23 15:18:02,2022-09-23 15:18:02
+143,55467,55186,51,Hdh.Atoll Education Centre,Shaheedha  Ali,principal@hdhaec.edu.mv,7908778,,,,2,39,670,,,maldives@123,80,2022-09-23 15:20:23,2022-09-23 15:20:23
+144,55468,55190,55,Kumundhoo School ,Mohamed  Adam,principal@kumundhooschool.edu.mv,7862996,,,,2,39,670,,,maldives@123,80,2022-09-23 15:24:17,2022-09-23 15:24:17
+145,55469,55325,189,Kunahandhoo School ,Ali  Hussain ,principal@kunahandhooschool.edu.mv,7488661,,,,2,44,679,,,maldives@123,80,2022-09-23 15:28:45,2022-09-23 15:28:45
+146,55470,55197,62,Lh. Atoll school,Abdulla  Aboobakur,principal@lhatollschool.edu.mv,9112719,,,,2,43,664,,,maldives@123,80,2022-09-23 15:41:12,2022-09-23 15:41:12
+147,55472,55204,69,Landhoo School,Yoosuf  Abdul Raheem,principal@landhooschool.edu.mv,9708782,,,,2,40,672,,,maldives@123,80,2022-09-23 15:48:10,2022-09-23 15:48:10
+148,55473,55208,73,Lhaimagu,Mohamed  Fayaz,principal@lhaimaguschool.edu.mv,7912716,,,,2,39,671,,,maldives@123,80,2022-09-23 16:04:04,2022-09-23 16:04:04
+149,55474,55221,86,Lhohee School,Ali Zahir ,principal@lhoheeschool.edu.mv,9639585,,,,2,40,672,,,maldives@123,80,2022-09-23 16:09:30,2022-09-23 16:09:30
+150,55477,55222,87,Maafaru Schoool,Mathiyazhangan  Periasamy,principal@maafaruschool.edu.mv,7420447,,,,2,40,672,,,maldives@123,80,2022-09-23 16:21:25,2022-09-23 16:21:25
+151,55478,55222,87,Maafushee School,Abdul  Nasir Mohamed,principal@maafushischool.edu.mv,7779582,,,,2,43,665,,,maldives@123,80,2022-09-23 16:25:14,2022-09-23 16:25:14
+152,55480,55223,88,Maalhendhoo School ,Yoosuf  Adam ,principal@maalhendhooschool.edu.mv,9727297,,,,2,40,672,,,maldives@123,80,2022-09-23 16:34:30,2022-09-23 16:34:30
+153,55481,55272,137,Maalhohu School ,Fathimath  Shimana,principal@aamaalhohuschool.edu.mv,7982341,,,,2,43,666,,,maldives@123,80,2022-09-23 16:38:51,2022-09-23 16:38:51
+154,55482,55251,116,Maalhohu School,Abbas  Hussain,principal@bmaalhohuschool.edu.mv,7962025,,,,2,40,674,,,maldives@123,80,2022-09-23 16:52:46,2022-09-23 16:52:46
+155,55483,55329,193,Maamendhoo School ,Aslam Mukhuthar,principal@lmaamendhooschool.edu.mv,9904090,,,,2,44,679,,,maldives@123,80,2022-09-23 16:56:27,2022-09-23 16:56:27
+156,55484,55329,193,Maamendhoo School ,Azim  Abdulla,principal@gamaamendhooschool.edu.mv,7961097,,,,2,45,680,,,maldives@123,80,2022-09-23 17:00:53,2022-09-23 17:00:53
+157,55485,55275,140,ADh. Atoll School,Rafiu  Jameel,principal@adhatollschool.edu.mv,7917876,,,,2,43,667,,,maldives@123,80,2022-09-23 17:04:34,2022-09-23 17:04:34
+158,55486,55179,45,Maarandhoo School,Abdul  Majeedh,principal@maarandhooschool.edu.mv,7783674,,,,2,39,669,,,maldives@123,80,2022-09-23 17:09:33,2022-09-23 17:09:33
+159,55487,55212,77,Maau'ngoodhoo,Ibrahim  Solah,principal@maaungoodhooschool.edu.mv,9192717,,,,2,39,671,,,maldives@123,80,2022-09-23 17:13:38,2022-09-23 17:13:38
+160,55489,55346,210,Madaveli School,Khalid  Mohamed,principal@madavelischool.edu.mv,9988665,,,,2,45,681,,,maldives@123,80,2022-09-23 17:22:23,2022-09-23 17:22:23
+161,55490,55316,181,Madifushi School ,Usha  Moosa,principal@madifushischool.edu.mv,7997377,,,,2,44,678,,,maldives@123,80,2022-09-23 17:27:43,2022-09-23 17:27:43
+162,55492,55239,104,Maduvvary School ,Mariyam  Rushdha,principal@mmaduvvareeschool.edu.mv,9771333,,,,2,44,675,,,maldives@123,80,2022-09-23 17:36:55,2022-09-23 17:36:55
+163,55493,55224,89,Magoodhoo School ,Hamdhoon  Hamid,principal@nmagoodhooschool.edu.mv,7827264,,,,2,40,672,,,maldives@123,80,2022-09-23 17:39:27,2022-09-23 17:39:27
+164,55494,55224,89,Magoodhoo School,Mohamed  Hameed,principal@fmagoodhooschool.edu.mv: mohamed.hameed@fmagoodhooschool.edu.mv,7740369,,,,2,44,676,,,maldives@123,80,2022-09-23 17:43:06,2022-09-23 17:43:06
+165,55495,55274,139,ADh. Atoll Education Centre,Moosa  Nadeem,principal@adhaec.edu.mv,7901891,,,,2,43,667,,,maldives@123,80,2022-09-23 17:46:21,2022-09-23 17:46:21
+166,55497,55169,36,Iskandharu School,Hussain  Saeed Mohamed,principal@iskandhar.edu.mv,7782052,,,,2,38,663,,,maldives@123,80,2022-09-23 17:53:03,2022-09-23 17:53:03
+167,55498,55169,36,Jamaluddin School,Hassan  Mohamed,principal@jamaluddin.edu.mv,7797860,,,,2,38,663,,,maldives@123,80,2022-09-23 17:55:01,2022-09-23 17:55:01
+168,55501,55169,36,Imaduddin School,Ali  Mamdhooh,principal@imaduddin.edu.mv,7996668,,,,2,38,663,,,maldives@123,80,2022-09-23 18:01:54,2022-09-23 18:01:54
+169,55502,55169,36,Aminiya School ,Naazleen  Wafir,principal@aminiya.edu.mv,7921177,,,,2,38,663,,,maldives@123,80,2022-09-23 18:04:32,2022-09-23 18:04:32
+170,55503,55169,36,Majeediyya School ,Aishath  Mohamed Salih,principal@majeediyya.edu.mv,7990960,,,,2,38,663,,,maldives@123,80,2022-09-23 18:06:39,2022-09-23 18:06:39
+171,55504,55169,36,Dharumavantha School,Abdulla  Didi,principal@dharuma.edu.mv,7791440,,,,2,38,663,,,maldives@123,80,2022-09-23 18:08:50,2022-09-23 18:08:50
+172,55505,55169,36,Hiriyaa School,Rinzy  Ibrahim waheed,principal@hiriya.edu.mv,7781361,,,,2,38,663,,,maldives@123,80,2022-09-23 18:11:25,2022-09-23 18:11:25
+173,55506,55169,36,I'zzudhdheen School,Nazira  Hassan,principal@izzudhdheen.edu.mv,9894353,,,,2,38,663,,,maldives@123,80,2022-09-23 18:14:10,2022-09-23 18:14:10
+174,55507,55169,36,Al Madharusathul Arabiyyathul Islaamiyya ,Mohamed Shujau  Abdul Raheem,principal@arabiyya.edu.mv,9997019,,,,2,38,663,,,maldives@123,80,2022-09-23 18:17:16,2022-09-23 18:17:16
+175,55508,55169,36,Maafannu Madharusa,Fathimath Yoosuf,maafannumadharusa@hotmail.com,7776664,,,,2,38,663,,,maldives@123,80,2022-09-23 18:19:29,2022-09-23 18:19:29
+176,55509,55169,36,Falaah Pre school,Mariyam  Ismail,falaah-preschool@hotmail.com,7772226,,,,2,38,663,,,maldives@123,80,2022-09-23 18:21:47,2022-09-23 18:21:47
+177,55510,55169,36,Galolhu Madhrasa,Suraiyya Ibrahim,galolhumadhrasa2011@gmail.com,7868847,,,,2,38,663,,,maldives@123,80,2022-09-23 18:23:38,2022-09-23 18:23:38
+178,55511,55169,36,Ameer Ahmed Preschool,Aishath  Ahulam,aa_ameerahmed@hotmail.com,3324123,,,,2,38,663,,,maldives@123,80,2022-09-23 18:25:44,2022-09-23 18:25:44
+179,55512,55169,36,Ahmadhiyya International School,Mohamed Rasheed,info@ahmadhiyya.edu.mv,7772438,,,,2,38,663,,,maldives@123,80,2022-09-23 18:28:57,2022-09-23 18:28:57
+180,55513,55169,36,Kinder Preschool,Aminath Nishma Naseem,admin@kinderpreschool.com ,7933666,,,,2,38,663,,,maldives@123,80,2022-09-23 18:30:36,2022-09-23 18:30:36
+181,55514,55169,36,Chimes Preschool,Hawwa  Shaheedha,admin@chimespreschool.edu.mv,7771934,,,,2,38,663,,,maldives@123,80,2022-09-23 18:32:13,2022-09-23 18:32:13
+182,55515,55169,36,Kokkomenge Preschool,Shifayath Ali,kokkomenschool@gmail.com,7923839,,,,2,38,663,,,maldives@123,80,2022-09-23 18:33:49,2022-09-23 18:33:49
+183,55516,55169,36,Dhondhooni Little Learners,Aishath  Zifaaf,mail@dhondhooni.com ,7797358,,,,2,38,663,,,maldives@123,80,2022-09-23 18:35:40,2022-09-23 18:35:40
+184,55518,55169,36,Shine Little Learners,Aishath  Nishana,shinelearnerspreschool@gmail.com,7799365,,,,2,38,663,,,maldives@123,80,2022-09-23 18:40:01,2022-09-23 18:40:01
+185,55519,55169,36,Kangaroo kids,Aminath Thahumeena,administrator@kangarookids.mv,7937008,,,,2,38,663,,,maldives@123,80,2022-09-23 18:41:43,2022-09-23 18:41:43
+186,55520,55169,36,Brooj Preschool,Rizana Ahmed Hameed,buroojpreschool@gmail.com,7931747,,,,2,38,663,,,maldives@123,80,2022-09-23 18:43:29,2022-09-23 18:43:29
+187,55521,55214,79,N. Atoll school ,Abdulla  Easa,principal@natollschool.edu.mv,7774061,,,,2,40,672,,,maldives@123,80,2022-09-23 18:46:50,2022-09-23 18:46:50
+188,55523,55351,215,Maradhoo School,Abdul  Latheef,principal@maradhooschool.edu.mv,7779417,,,,2,45,683,,,maldives@123,80,2022-09-23 18:55:59,2022-09-23 18:55:59
+189,55524,55351,215,Irushaadhiyya School ,Mohamed Nasir,principal@irushadhiyya.edu.mv,7974502,,,,2,45,683,,,maldives@123,80,2022-09-23 18:57:44,2022-09-23 18:57:44
+190,55525,55352,216,Maradhoo Feydhoo School ,Fathmath  Hafsa,principal@mfs.edu.mv,7946050,,,,2,45,683,,,maldives@123,80,2022-09-23 19:00:23,2022-09-23 19:00:23
+191,55526,55199,64,Maroshi,Ilhama Ilhama,principal@munavvara.edu.mv,9926224,,,,2,39,671,,,maldives@123,80,2022-09-23 19:02:45,2022-09-23 19:02:45
+192,55527,55270,135,Mathiveri School ,Hassan Hameed Ibrahim ,principal@mathiverischool.edu.mv,9703070,,,,2,43,666,,,maldives@123,80,2022-09-23 19:05:24,2022-09-23 19:05:24
+193,55530,55226,91,Dh. Atoll School ,Aminath  Jameel,principal@dhatollschool.edu.mv,9670088,,,,2,44,677,,,maldives@123,80,2022-09-24 11:26:43,2022-09-24 11:26:43
+194,55531,55226,91,S. Atoll School ,Aminath  Zeeniya,principal@satollschool.edu.mv,7529873,,,,2,45,683,,,maldives@123,80,2022-09-24 11:28:49,2022-09-24 11:28:49
+195,55532,55225,90,Hidhaya School ,Chandra  Kumar,principal@hidhayaschool.edu.mv,9640602,,,,2,40,672,,,maldives@123,80,2022-09-24 11:31:34,2022-09-24 11:31:34
+196,55534,55181,47,Molhadhoo School,Soman Ponnumuthu Nadar,principal@molhadhooschool.edu.mv,7870827,,,,2,39,669,,,maldives@123,80,2022-09-24 11:36:28,2022-09-24 11:36:28
+197,55535,55289,154,Mulaku School ,Thoha  Mohamed,principal@mulakuschool.edu.mv,9996166,,,,2,44,675,,,maldives@123,80,2022-09-24 11:39:11,2022-09-24 11:39:11
+198,55536,55287,152,M.Atoll Education Center,Aminath  Ali ,principal@maec.edu.mv,9763141,,,,2,44,675,,,maldives@123,80,2022-09-24 11:42:15,2022-09-24 11:42:15
+199,55537,55328,192,Mundoo School,Fathimath  Nazeera,principal@mundooschool.edu.mv,7532152,,,,2,44,679,,,maldives@123,80,2022-09-24 11:44:22,2022-09-24 11:44:22
+200,55539,55293,158,Naalaafushi School ,Ahmed  Nizam ,principal@naalaafushischool.edu.mv,7796414,,,,2,44,675,,,maldives@123,80,2022-09-24 11:51:49,2022-09-24 11:51:49
+201,55540,55343,207,Nadella School ,Hussain  Jaweed,principal@nadellaschool.edu.mv,7900920,,,,2,45,681,,,maldives@123,80,2022-09-24 11:55:33,2022-09-24 11:55:33
+202,55541,55256,121,Madrasathul Ifthithaah,Aishath  Farhath ,principal@ifthithaah.edu.mv,9588825,,,,2,43,664,,,maldives@123,80,2022-09-24 11:58:22,2022-09-24 11:58:22
+203,55542,55209,74,Narudhoo,Abdhul Ghanee  Abdhul Ghafoor,principal@narudhooschool.edu.mv,9919092,,,,2,39,671,,,maldives@123,80,2022-09-24 12:01:51,2022-09-24 12:01:51
+204,55544,55196,61,Nellaidhoo School ,Ismail  Rasheed,principal@nellaidhooschool.edu.mv,7521596,,,,2,39,670,,,maldives@123,80,2022-09-24 12:06:16,2022-09-24 12:06:16
+205,55545,55197,62,Neykurendhoo School ,Mr. S.Robert  Silva,principal@neykurendhooschool.edu.mv,7689017,,,,2,39,670,,,maldives@123,80,2022-09-24 12:08:47,2022-09-24 12:08:47
+206,55547,55295,160,Nilandhoo School ,Khadeeja Ibrahim,principal@ganilandhooschool.edu.mv,9665170,,,,2,45,680,,,maldives@123,80,2022-09-24 12:17:20,2022-09-24 12:17:20
+207,55548,55193,58,Nolhivaram School ,Adnan  Ali,principal@nolhivaramschool.edu.mv,7930503,,,,2,39,670,,,maldives@123,80,2022-09-24 12:21:49,2022-09-24 12:21:49
+208,55550,55210,75,Noomara,Shaji  Thakeel,principal@noomaraaschool.edu.mv,7725147,,,,2,39,671,,,maldives@123,80,2022-09-24 12:26:41,2022-09-24 12:26:41
+209,55551,55255,120,Olhuvelifushi School,Ibrahim  Ismail ,principal@olhuvelifushischool.edu.mv,7650895,,,,2,43,664,,,maldives@123,80,2022-09-24 12:28:57,2022-09-24 12:28:57
+210,55552,55277,142,Omadhoo School ,Hassan  Amir,principal@adhomadhooschool.edu.mv,7914628,,,,2,43,667,,,maldives@123,80,2022-09-24 12:33:43,2022-09-24 12:33:43
+211,55553,55277,142,Omadhoo School ,M. M. Issac M. M. Issac,principal@thomadhooschool.edu.mv,7604079,,,,2,44,678,,,maldives@123,80,2022-09-24 12:36:29,2022-09-24 12:36:29
+212,55554,55266,131,Aa. Atoll Education Centre ,Rashidha  Moosa,principal@aaaec.edu.mv,7578153,,,,2,43,666,,,maldives@123,80,2022-09-24 12:38:57,2022-09-24 12:38:57
+213,55555,55233,98,Rasgetheemu School,Abdul  Moomin Naseer,principal@rasgetheemuschool.edu.mv,7508867,,,,2,40,673,,,maldives@123,80,2022-09-24 12:41:14,2022-09-24 12:41:14
+214,55556,55234,99,Rasmaadhoo School ,Ahmed  Hamdhoon,principal@rasmaadhooschool.edu.mv,9646797,,,,2,40,673,,,maldives@123,80,2022-09-24 12:43:54,2022-09-24 12:43:54
+215,55557,55344,208,Rathafandhoo School ,Mohamed  Abdulla,principal@rathafandhooschool.edu.mv,7888505,,,,2,45,681,,,maldives@123,80,2022-09-24 12:46:27,2022-09-24 12:46:27
+216,55558,55303,168,Rinbudhoo School,Mohamed  Shakir,principal@rinbudhooschool.edu.mv,9840094,,,,2,44,677,,,maldives@123,80,2022-09-24 12:50:04,2022-09-24 12:50:04
+217,55559,55291,156,Riymandhoo School ,Abdul Rasheed,principal@raiymandhooschool.edu.mv,7922776,,,,2,44,675,,,maldives@123,80,2022-09-24 12:52:45,2022-09-24 12:52:45
+218,55560,55172,39,Madhrasathul Shaheed Ali Thakurufuanu School ,Ali  Mohamed ,principal@msat.edu.mv,7915095,,,,2,39,669,,,maldives@123,80,2022-09-24 12:55:52,2022-09-24 12:55:52
+219,55561,55306,171,Th. Atoll Education Centre,Hassan  Zareer,principal@thaec.edu.mv,9733037,,,,2,44,678,,,maldives@123,80,2022-09-24 12:58:52,2022-09-24 12:58:52
+220,55563,55341,205,Aboobakuru School ,Jamsheeda  Abdulla,principal@aboobakuruschool.edu.mv,7945886,,,,2,45,681,,,maldives@123,80,2022-09-24 13:04:54,2022-09-24 13:04:54
+221,55565,55269,134,Thoddu School ,Moosa Salih,principal@thoddooschool.edu.mv,7784934,,,,2,43,666,,,maldives@123,80,2022-09-24 13:13:07,2022-09-24 13:13:07
+222,55566,55252,117,Thulhaadhoo School,Rajandran  Pazhangattu,principal@thulhaadhooschool.edu.mv,7690720,,,,2,40,674,,,maldives@123,80,2022-09-24 13:15:20,2022-09-24 13:15:20
+223,55567,55257,122,K. Atoll Education Centre ,Ahmed  Mihaad ,principal@kaec.edu.mv,7825939,,,,2,43,665,,,maldives@123,80,2022-09-24 13:17:40,2022-09-24 13:17:40
+224,55568,55184,49,Thuraakunu School ,Ahmed  Niyaaz,principal@thuraakunuschool.edu.mv,7910695,,,,2,39,669,,,maldives@123,80,2022-09-24 13:20:25,2022-09-24 13:20:25
+225,55569,55185,50,Uligamu School,Saudhulla  Idhrees,principal@uligamuschool.edu.mv,7903452,,,,2,39,669,,,maldives@123,80,2022-09-24 13:25:57,2022-09-24 13:25:57
+226,55570,55236,101,Ungoofaaru School ,Ahmed  Mujthaba,principal@ungoofaaruschool.edu.mv,7906328,,,,2,40,673,,,maldives@123,80,2022-09-24 13:28:23,2022-09-24 13:28:23
+227,55571,55171,38,Gaazee Bandaarain School ,Abdulla  Inayath,principal@gbs.edu.mv,9781998,,,,2,39,669,,,maldives@123,80,2022-09-24 13:30:51,2022-09-24 13:30:51
+228,55572,55238,103,Vaadhoo School ,Mohamed  Riyaz,principal@rvaadhooschool.edu.mv,7446345,,,,2,40,673,,,maldives@123,80,2022-09-24 13:33:51,2022-09-24 13:33:51
+229,55574,55187,52,Hdh.Atoll School,Mohamed  Hilmy,principal@hdhatollschool.edu.mv,9807576,,,,2,39,670,,,maldives@123,80,2022-09-24 13:38:19,2022-09-24 13:38:19
+230,55575,55315,180,Vandhoo School,Ismail  Shafeeq,principal@vandhooschool.edu.mv,7961651,,,,2,44,678,,,maldives@123,80,2022-09-24 13:41:52,2022-09-24 13:41:52
+231,55576,55180,46,Vasahfaru School ,Mohamed Zahir,principal@vashafaruschool.edu.mv,9679779,,,,2,39,669,,,maldives@123,80,2022-09-24 13:44:07,2022-09-24 13:44:07
+232,55577,55213,78,N. Atoll Education Centre,Abdulla  Ali,principal@naec.edu.mv,7901573,,,,2,40,672,,,maldives@123,80,2022-09-24 13:46:32,2022-09-24 13:46:32
+233,55578,55213,78,Hinz Preschool,Hinna  Khalid,hinzpreschool@gmail.com,7600689,,,,2,40,672,,,maldives@123,80,2022-09-24 13:48:18,2022-09-24 13:48:18
+234,55579,55310,175,Veymandoo School ,Adam  Ashraf,principal@veymandooschool.edu.mv,7717564,,,,2,44,678,,,maldives@123,80,2022-09-24 13:50:15,2022-09-24 13:50:15
+235,55580,55292,157,Veyvashu School ,Ali  Naeem ,principal@veyvashuschool.edu.mv,7477978,,,,2,44,675,,,maldives@123,80,2022-09-24 13:52:29,2022-09-24 13:52:29
+236,55581,55332,196,G.A. Atoll Education Centre ,Thamheed Thamheed,principal@gaaec.edu.mv,7902397,,,,2,45,680,,,maldives@123,80,2022-09-24 13:54:44,2022-09-24 13:54:44
+237,55582,55332,196,Muhyiddin School ,Nazima  Ali Manik ,principal@muhyiddin.edu.mv,9858856,,,,2,38,663,,,maldives@123,80,2022-09-24 13:56:26,2022-09-24 13:56:26
+238,55583,55312,177,Vilufushee School,Aminath  Afra,principal@vilufusheeschool.edu.mv,9764004,,,,2,44,678,,,maldives@123,80,2022-09-24 13:58:38,2022-09-24 13:58:38
+239,55591,55298,163,Bileiydhoo School,Imthihaz  Ahmed,principal@bilehdhooschool.edu.mv,7989291,,,,2,44,676,,,maldives@123,80,2022-09-26 11:30:11,2022-09-26 11:30:11
+240,55592,55206,71,Feydhoo School,Ahmed Mihadh,principal@feydhooschool.edu.mv,9642647,,,,2,45,683,,,maldives@123,80,2022-09-26 11:35:15,2022-09-26 11:35:15
+241,55593,55189,54,Finey School,Anwar  Mohamed,principal@fineyschool.edu.mv,9935163,,,,2,39,670,,,maldives@123,80,2022-09-26 12:17:17,2022-09-26 12:17:17
+242,55594,55348,212,Fiyoari School,Md. Nurul  Islam,principal@fiyoareeschool.edu.mv,9106070,,,,2,45,681,,,maldives@123,80,2022-09-26 12:42:26,2022-09-26 12:42:26
+243,55595,55203,68,Foakaidhoo,Mohamed  Shameem,principal@foakaidhooschool.edu.mv,7937452,,,,2,39,671,,,maldives@123,80,2022-09-26 12:45:11,2022-09-26 12:45:11
+244,55596,55207,72,Goidhoo,Khalidh  Abdullah,principal@shgoidhooschool.edu.mv,7935657,,,,2,39,671,,,maldives@123,80,2022-09-26 12:49:41,2022-09-26 12:49:41
+245,55597,55207,72,Th. Atoll School ,Hussain  Shakir,principal@thatollschool.edu.mv,9840094,,,,2,44,678,,,maldives@123,80,2022-09-26 12:53:12,2022-09-26 12:53:12
+246,55598,55273,138,Himandhoo School,Zeeniyaa  Ahmed,principal@himandhooschool.edu.mv,9880523,,,,2,43,666,,,maldives@123,80,2022-09-26 12:56:00,2022-09-26 12:56:00
+247,55599,55253,118,Lh. Atoll Education Centre,Fazna  Yoosuf Fariq,principal@lhaec.edu.mv,7877074,,,,2,43,664,,,maldives@123,80,2022-09-26 13:01:44,2022-09-26 13:01:44
+248,55600,55175,42,Ha. Atoll school ,Hussain  Naeem,principal@haatollschool.edu.mv,7797292,,,,2,39,669,,,maldives@123,80,2022-09-26 13:04:43,2022-09-26 13:04:43
+249,55601,55237,102,Hulhudhuffaaru School,Mohamed  Fayaz ,principal@hulhudhuffaaruschool.edu.mv,7782229,,,,2,40,673,,,maldives@123,80,2022-09-26 13:07:33,2022-09-26 13:07:33
+250,55602,55326,190,Isdhoo School ,Hawwa  Nazeeha,principal@isdhooschool.edu.mv,9159151,,,,2,44,679,,,maldives@123,80,2022-09-26 13:13:25,2022-09-26 13:13:25
+251,55603,55327,191,Isdhookalhaidhoo School ,Moosa  Nazim,principal@isdhookalaidhooschool.edu.mv,7799151,,,,2,44,679,,,maldives@123,80,2022-09-26 13:19:32,2022-09-26 13:19:32
+252,55604,55247,112,Kamadhoo School ,David  P K Chako,principal@kamadhooschool.edu.mv,7442751,,,,2,40,674,,,maldives@123,80,2022-09-26 13:23:49,2022-09-26 13:23:49
+253,55605,55170,37,Madhrasathul Sheikh Ibrahim ,Mohamed  Fayaz,principal@msi.edu.mv,9823082,,,,2,39,669,,,maldives@123,80,2022-09-26 13:30:30,2022-09-26 13:30:30
+254,55606,55170,37,Keyodhoo School,Zaeema  Hussain ,principal@keyodhooschool.edu.mv,7476523,,,,2,43,668,,,maldives@123,80,2022-09-26 13:33:14,2022-09-26 13:33:14
+255,55607,55249,114,Kihaadhoo School,Mohamed  Zubair,principal@kihaadhooschool.edu.mv,7795883,,,,2,40,674,,,maldives@123,80,2022-09-26 13:36:38,2022-09-26 13:36:38
+256,55608,55250,115,Kudarikil School,Ahmed  Firaq,principal@kudarikiluschool.edu.mv,9988837,,,,2,40,674,,,maldives@123,80,2022-09-26 13:41:50,2022-09-26 13:41:50
+257,55609,55191,56,Kurinbee School ,Hussain  Nazim,principal@kurinbeeschool.edu.mv,9995686,,,,2,39,670,,,maldives@123,80,2022-09-26 13:44:28,2022-09-26 13:44:28
+258,55610,55320,185,L. Atoll School,Shareefa  Abdulla,principal@latollschool.edu.mv,7998858,,,,2,44,679,,,maldives@123,80,2022-09-26 13:48:46,2022-09-26 13:48:46
+259,55611,55305,170,Maaenboodhoo Madhrasa ,Ali  Mufeed,principal@maaenboodhooschool.edu.mv,9995658,,,,2,44,677,,,maldives@123,80,2022-09-26 13:52:41,2022-09-26 13:52:41
+260,55612,55232,97,Maakurathu School ,Ibrahim  Naseem,principal@maakurathuschool.edu.mv,7965138,,,,2,40,673,,,maldives@123,80,2022-09-26 13:56:01,2022-09-26 13:56:01
+261,55613,55232,97,Maavashu School ,Zulaikha  Rafeeu,principal@maavashuschool.edu.mv,9197181,,,,2,44,679,,,maldives@123,80,2022-09-26 13:58:59,2022-09-26 13:58:59
+262,55616,55239,104,Maduvvaree School,Abdulla  Haleem,principal@rmaduvvareeschool.edu.mv,7978263,,,,2,40,673,,,maldives@123,80,2022-09-26 15:05:21,2022-09-26 15:05:21
+263,55618,55195,60,Makunudhoo School,Mohamed  Luthfee,principal@makunudhooschool.edu.mv,9168279,,,,2,39,670,,,maldives@123,80,2022-09-26 15:08:17,2022-09-26 15:08:17
+264,55619,55169,36,Kalaafaanu School ,Rahma  Abdul Rahman,principal@kalaafaanuschool.edu.mv,7911565,,,,2,38,663,,,maldives@123,80,2022-09-26 15:16:30,2022-09-26 15:16:30
+265,55621,55169,36,Thaajuddeen school ,Basheera  Mohamed ,principal@thaajuddeenschool.edu.mv,7785856,,,,2,38,663,,,maldives@123,80,2022-09-26 15:18:48,2022-09-26 15:18:48
+266,55622,55169,36,Excel International School,Ahmed Shareef,info@excelinternationalschool.org,7934757,,,,2,38,663,,,maldives@123,80,2022-09-26 15:21:28,2022-09-26 15:21:28
+267,55623,55279,144,Mandhoo School ,Hassan  Niyaaz,principal@mandhooschool.edu.mv,7860870,,,,2,43,667,,,maldives@123,80,2022-09-26 15:24:49,2022-09-26 15:24:49
+268,55624,55226,91,R. Atoll Education Centre,Ahmed  Naeem ,principal@raec.edu.mv,7626298,,,,2,40,673,,,maldives@123,80,2022-09-26 15:28:15,2022-09-26 15:28:15
+269,55625,55204,69,Milandhoo,Ibrahim  Adhil,principal@milandhooschool.edu.mv,7577978,,,,2,39,671,,,maldives@123,80,2022-09-26 15:31:45,2022-09-26 15:31:45
+270,55626,55238,103,Vaadhoo Jamaluddeen School,Nazha  Saeed,principal@vjs.edu.mv,7719399,,,,2,45,681,,,maldives@123,80,2022-09-26 15:35:27,2022-09-26 15:35:27
+271,55627,55183,48,Muraidhoo School,Aishath  Fazna,principal@muraidhooschool.edu.mv,7995960,,,,2,39,669,,,maldives@123,80,2022-09-26 15:40:06,2022-09-26 15:40:06
+272,55628,55192,57,Navaidhoo School ,Ali  Shareef,principal@naivaadhooschool.edu.mv,7928765,,,,2,39,670,,,maldives@123,80,2022-09-26 15:44:34,2022-09-26 15:44:34
+273,55629,55295,160,F. Atoll Education Centre,Abdulla  Ahmed,principal@faec.edu.mv,9980175,,,,2,44,676,,,maldives@123,80,2022-09-26 15:48:11,2022-09-26 15:48:11
+274,55630,55198,63,Nolhivaranfaru School ,Ali Ahmed,principal@nolhivaranfaruschool.edu.mv,7905589,,,,2,39,670,,,maldives@123,80,2022-09-26 15:51:15,2022-09-26 15:51:15
+275,55631,55341,205,G.Dh Atoll Education Centre,Ahmed  Ashraf,principal@gdhaec.edu.mv,7797464,,,,2,45,681,,,maldives@123,80,2022-09-26 15:54:41,2022-09-26 15:54:41
+276,55632,55341,205,Thinadhoo School,Shaziyya  Ahmed ,principal@thinadhooschool.edu.mv,7925600,,,,2,45,681,,,maldives@123,80,2022-09-26 15:57:48,2022-09-26 15:57:48
+277,55633,55268,133,Ukulhahu School ,Shahula Imad,principal@ukulhahuschool.edu.mv,9996669,,,,2,43,666,,,maldives@123,80,2022-09-26 16:03:07,2022-09-26 16:03:07
+278,55634,55333,197,G.A. Atoll School,Uthayaraj Uthayaraj,principal@gaatollschool.edu.mv,7763426,,,,2,45,680,,,maldives@123,80,2022-09-26 16:07:56,2022-09-26 16:07:56
+279,55640,55639,219,Mohamed Gasim Preschool,Azra Ali,admin@mqps.edu.mv,7606733,,,,2,38,663,,,maldives@123,80,2022-09-26 17:13:29,2022-09-26 17:13:29
+280,55641,55639,219,Little Gems Preschool,Aminath Shuzuna,admin@littlegems.mv,7667009,,,,2,38,663,,,maldives@123,80,2022-09-26 17:17:20,2022-09-26 17:17:20
+281,55643,55642,220,Ghaazee School ,Mariyam  Mohamed ,principal@ghaazee.edu.mv,9977655,,,,2,38,663,,,maldives@123,80,2022-09-26 17:27:51,2022-09-26 17:27:51
+282,55644,55642,220,Rehendhi School ,Abdulla  Nazim,principal@rehendi.edu.mv,7991518,,,,2,38,663,,,maldives@123,80,2022-09-26 17:30:20,2022-09-26 17:30:20
+283,55645,55642,220,Huravee School,Abdulla  Rasheed,principal@huravee.edu.mv,7902126,,,,2,38,663,,,maldives@123,80,2022-09-26 17:32:30,2022-09-26 17:32:30
+284,55647,55642,220,Kaamil Didi Primary School,Fathimath Leena,principal@kaamildidi.edu.mv,7940080,,,,2,38,663,,,maldives@123,80,2022-09-26 17:38:00,2022-09-26 17:38:00
+285,55649,55648,222,Mianz Internation School,Nilanthi Perera,mianzaddu@gmail.com,6880072,,,,2,45,683,,,maldives@123,80,2022-09-26 17:43:21,2022-09-26 17:43:21
+286,55677,55674,223,Alfa@Demo,Alfa Demo 1,alfa_demo1@glonalmail.in,101234567,A,A,A,1,31,589,"87,88",226015,alfa@demo,100,2022-10-15 23:00:50,2022-10-18 15:01:44
+287,55805,55804,224,Knowledge Academy School,Asma Jalal,asmajalal@kectschool.com,9009000002,.,.,.,1,30,490,"16,17",.,123456,100,2023-01-31 15:55:17,2023-02-04 10:28:35
+892,57120,56515,225,Composite Jaganpur,Nathpal singh,Nathpal000001@gmail.com,0,,,,1,31,684,"16,17,49,50",247776,5490,100,2023-03-13 14:29:50,2023-03-14 16:50:37
+893,57121,56515,225,Composite Kaserva Kala,Pushpendra Kumar,Pushpendra000002@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4805,100,2023-03-13 14:29:50,2023-03-14 16:52:30
+894,57122,56515,225,PS Malakpur,Mohd Wasil,Mohd000003@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6623,100,2023-03-13 14:29:50,2023-03-14 16:52:55
+895,57123,56515,225,PS Jidana,Brijesh Kumar,Brijesh000004@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8968,100,2023-03-13 14:29:50,2023-03-14 16:52:55
+896,57124,56515,225,Composite Simbhalaka,Sunita Sharma,Sunita000005@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,479,100,2023-03-13 14:29:51,2023-03-14 16:52:55
+897,57125,56515,225,PS Dhanena, Anuj Kumar Sharma,000006@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3299,100,2023-03-13 14:29:51,2023-03-14 16:52:55
+898,57126,56515,225,PS Kairi, Aarif Khan,000007@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7296,100,2023-03-13 14:29:51,2023-03-14 16:52:55
+899,57127,56515,225,PS Jhinjhana, Vijeta Tomar,000008@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9389,100,2023-03-13 14:29:51,2023-03-14 16:52:55
+900,57128,56515,225,PS Gari Pukhta, Sunita,000009@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3741,100,2023-03-13 14:29:51,2023-03-14 16:52:55
+901,57129,56515,225,PS Rangana, Akshay Kumar,000010@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,17,100,2023-03-13 14:29:51,2023-03-14 16:52:55
+902,57130,56515,225,Composite Kandela,Deepak Bhardwaj,Deepak000011@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5588,100,2023-03-13 14:29:52,2023-03-14 16:52:55
+903,57131,56515,225,PS Khurgan, Jai Parkesh,000012@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6645,100,2023-03-13 14:29:52,2023-03-14 16:52:55
+904,57132,56515,225,PS Jasala 1, Munesh Bhardwaj,000013@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3879,100,2023-03-13 14:29:52,2023-03-14 16:52:55
+905,57133,56515,225,PS Silawar 2,Pradeep Kumar,Pradeep000014@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1480,100,2023-03-13 14:29:52,2023-03-14 16:52:55
+906,57134,56515,225,PS Kudana 2,Prahlad Singh,Prahlad000015@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,656,100,2023-03-13 14:29:52,2023-03-14 16:52:55
+907,57135,56515,225,PS Lilon 2, Ravindra Kumar,000016@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3305,100,2023-03-13 14:29:52,2023-03-14 16:52:55
+908,57136,56515,225,PS Bhaiswal, Mamta,000017@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4024,100,2023-03-13 14:29:52,2023-03-14 16:52:55
+909,57137,56515,225,PS Hind, Krishna Devi,000018@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7833,100,2023-03-13 14:29:53,2023-03-14 16:52:55
+910,57138,56515,225,Composite Taprana,Vibha Rani,Vibha000019@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2950,100,2023-03-13 14:29:53,2023-03-14 16:52:55
+911,57139,56515,225,PS Miya kasba,Geeta,Geeta000020@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4042,100,2023-03-13 14:29:53,2023-03-14 16:52:55
+912,57140,56515,225,PS KABRAUT,SANJEEV KUMAR,SANJEEV000084@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5619,100,2023-03-13 14:29:53,2023-03-14 16:52:55
+913,57141,56515,225,KUDANA-1,PRAHLAD SINGH,PRAHLAD000085@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6794,100,2023-03-13 14:29:53,2023-03-14 16:52:55
+914,57142,56515,225,BUTRARA-2,MUKESH SHARMA,MUKESH000086@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6534,100,2023-03-13 14:29:53,2023-03-14 16:52:55
+915,57143,56515,225,LILEON-1,ANITA DEVI,ANITA000087@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5623,100,2023-03-13 14:29:53,2023-03-14 16:52:55
+916,57144,56515,225,BUTRARI-2,NEERA KUMARI,NEERA000088@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3362,100,2023-03-13 14:29:54,2023-03-14 16:52:55
+917,57145,56515,225,JHS JHAAL,AJAY KUMAR,AJAY000089@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1281,100,2023-03-13 14:29:54,2023-03-14 16:52:55
+918,57146,56515,225,KANYA JHS BHANERA JAT,VIKAS MALIK,VIKAS000090@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6812,100,2023-03-13 14:29:54,2023-03-14 16:52:55
+919,57147,56515,225,JHS KARAURI,MADHURI VERMA,MADHURI000091@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,142,100,2023-03-13 14:29:54,2023-03-14 16:52:55
+920,57148,56515,225,KANYA JHS GOHARNI,RAJEEV KUMAR,RAJEEV000092@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1994,100,2023-03-13 14:29:54,2023-03-14 16:52:55
+921,57149,56515,225,COMPOSITE BUTRARA,RANARESH,RANARESH000093@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3553,100,2023-03-13 14:29:54,2023-03-14 16:52:55
+922,57150,56515,225,BHAJU-2,DEEPAK KUMAR,DEEPAK000094@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6907,100,2023-03-13 14:29:54,2023-03-14 16:52:55
+923,57151,56515,225,JHS BARLA JAT,JITENDRA KUMAR,JITENDRA000095@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6063,100,2023-03-13 14:29:55,2023-03-14 16:52:55
+924,57152,56515,225,J H S SONTA,JITENDRA KUMAR,JITENDRA000096@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9176,100,2023-03-13 14:29:55,2023-03-14 16:52:55
+925,57153,56515,225,JHS ARYA PURI,ALKA BANSAL,ALKA000097@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8744,100,2023-03-13 14:29:55,2023-03-14 16:52:55
+926,57154,56515,225,PS Ghissugarh,SACHIN KUMAR,SACHIN000098@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5414,100,2023-03-13 14:29:55,2023-03-14 16:52:55
+927,57155,56515,225,HAIDERPUR,PARUL TYAGI,PARUL000099@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5980,100,2023-03-13 14:29:55,2023-03-14 16:52:55
+928,57156,56515,225,JHS MAVI,RAKESH VATI,RAKESH000100@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4556,100,2023-03-13 14:29:55,2023-03-14 16:52:55
+929,57157,56515,225,JUNIOR BASARIA,AMIT KUMAR,AMIT000101@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1807,100,2023-03-13 14:29:55,2023-03-14 16:52:55
+930,57158,56515,225,MAMOR,ARVIN KUMAR,ARVIN000102@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9700,100,2023-03-13 14:29:56,2023-03-14 16:52:55
+931,57159,56515,225,NAYA GAOUN KHURGAN,RASHMI RANI,RASHMI000103@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,770,100,2023-03-13 14:29:56,2023-03-14 16:52:55
+932,57160,56515,225,JHS GOGWAN,SUBODH KUMAR,SUBODH000104@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8542,100,2023-03-13 14:29:56,2023-03-14 16:52:55
+933,57161,56515,225,JANDHAIRI,JITENDRA KUMAR,JITENDRA000105@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,285,100,2023-03-13 14:29:56,2023-03-14 16:52:55
+934,57162,56515,225,JHS BERNAVI,DESHPAL SINGH,DESHPAL000106@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2367,100,2023-03-13 14:29:56,2023-03-14 16:52:55
+935,57163,56515,225,KASAIRWA KHURD-2,sangeeta,sangeeta000107@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3929,100,2023-03-13 14:29:56,2023-03-14 16:52:55
+936,57164,56515,225,MANGALPUR,RANVEER SINGH,RANVEER000108@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9336,100,2023-03-13 14:29:57,2023-03-14 16:52:55
+937,57165,56515,225,JHS MOHMMADPUR RAI,SHUBASH KUMAR,SHUBASH000109@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9223,100,2023-03-13 14:29:57,2023-03-14 16:52:55
+938,57166,56515,225,JHS GANDRAW,KHALEEL AHAMED,KHALEEL000110@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3193,100,2023-03-13 14:29:57,2023-03-14 16:52:55
+939,57167,56515,225,HIRANVADA-2,NEELAM,NEELAM000111@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4298,100,2023-03-13 14:29:57,2023-03-14 16:52:55
+940,57168,56515,225,THANABHAWAN 2,PANKESH KUMAR,PANKESH000112@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9418,100,2023-03-13 14:29:57,2023-03-14 16:52:55
+941,57169,56515,225,JHS CHANDAINA MAL,SUSHIL KUMAR,SUSHIL000113@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3761,100,2023-03-13 14:29:57,2023-03-14 16:52:55
+942,57170,56515,225,NAUJAL 2,SACHIN GUPTA,SACHIN000114@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4573,100,2023-03-13 14:29:57,2023-03-14 16:52:55
+943,57171,56515,225,BHAISANI ISLAMPUR 1,VINOD KUMAR,VINOD000115@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5271,100,2023-03-13 14:29:58,2023-03-14 16:52:55
+944,57172,56515,225,JHS GARHI ABDULLA KHAN,RUBESH KUMAR,RUBESH000116@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6089,100,2023-03-13 14:29:58,2023-03-14 16:52:55
+945,57173,56515,225,JHS KAIL SHIKARPUR,YOGENDRA KUMAR,YOGENDRA000117@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6530,100,2023-03-13 14:29:58,2023-03-14 16:52:55
+946,57174,56515,225,MARU KHERI,SHASHI SHARMA,SHASHI000118@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8925,100,2023-03-13 14:29:58,2023-03-14 16:52:55
+947,57175,56515,225,PS.THNABHAWAN,ANITA DEVI,ANITA000119@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,889,100,2023-03-13 14:29:58,2023-03-14 16:52:55
+948,57176,56515,225,JHS MANTI HASAN PUR,SANJEEV KUMAR,SANJEEV000120@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8390,100,2023-03-13 14:29:58,2023-03-14 16:52:55
+949,57177,56515,225,JHS BUNTTA,JABIR HUSAIN,JABIR000121@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2494,100,2023-03-13 14:29:58,2023-03-14 16:52:55
+950,57178,56515,225,JHS KUTUB GARH,RAKESH KUMAR,RAKESH000122@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3862,100,2023-03-13 14:29:59,2023-03-14 16:52:55
+951,57179,56515,225,JHS MANSOORA,ANIL RANA,ANIL000123@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4196,100,2023-03-13 14:29:59,2023-03-14 16:52:55
+952,57180,56515,225,PS FATHEPUR,SHIVENDAR KUMAR,SHIVENDAR000124@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5305,100,2023-03-13 14:29:59,2023-03-14 16:52:55
+953,57181,56515,225,UPS KHERIKHUSNAAM,ANKIT KUMAR GARG,ANKIT000125@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3689,100,2023-03-13 14:29:59,2023-03-14 16:52:55
+954,57182,56515,225,PS MALENDI-1,NEERAJ,NEERAJ000126@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9617,100,2023-03-13 14:29:59,2023-03-14 16:52:55
+955,57183,56515,225,PS RANJHAR-1,KULDEEP SINGH,KULDEEP000127@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9816,100,2023-03-13 14:29:59,2023-03-14 16:52:55
+956,57184,56515,225,PS RANJHAR-2,AAYUShI,AAYUShI000128@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8414,100,2023-03-13 14:29:59,2023-03-14 16:52:55
+957,57185,56515,225,UPS DOCKPURA,PAWAN KUMAR VERMA,PAWAN000129@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9154,100,2023-03-13 14:30:00,2023-03-14 16:52:55
+958,57186,56515,225,PS DATHEDA-1,NEERAJ,NEERAJ000130@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5965,100,2023-03-13 14:30:00,2023-03-14 16:52:55
+959,57187,56515,225,UPS KABIR PUR,GAURAV MALIK,GAURAV000131@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1057,100,2023-03-13 14:30:00,2023-03-14 16:52:55
+960,57188,56515,225,PS CHUDHIYARI,BHARAT CHOUDHARY,BHARAT000132@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5162,100,2023-03-13 14:30:00,2023-03-14 16:52:55
+961,57189,56515,225,UPS HATHCHOYA,KHURSHID AHAMAD,KHURSHID000133@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9900,100,2023-03-13 14:30:00,2023-03-14 16:52:55
+962,57190,56515,225,UPS TANA,RAJVEER SINGH,RAJVEER000134@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1156,100,2023-03-13 14:30:00,2023-03-14 16:52:55
+963,57191,56515,225,UPS MUNDEET KHADAR,KRISHAN KUMAR,KRISHAN000135@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2314,100,2023-03-13 14:30:01,2023-03-14 16:52:55
+964,57192,56515,225,PS GARHIPUKTA-12,NIDHI KUMARI,NIDHI000136@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1117,100,2023-03-13 14:30:01,2023-03-14 16:52:55
+965,57193,56515,225,PS SALEMPUR,SUNEEL KUMAR,SUNEEL000137@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4695,100,2023-03-13 14:30:01,2023-03-14 16:52:55
+966,57194,56515,225,JHS HURMANJPUR,JITENDRA KUMAR,JITENDRA000138@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6069,100,2023-03-13 14:30:01,2023-03-14 16:52:55
+967,57195,56515,225,LISARH 1,ROHIT MALIK,ROHIT000139@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6106,100,2023-03-13 14:30:01,2023-03-14 16:52:55
+968,57196,56515,225,KANYA JHS ESSOPURTEEL,SANJEEV KUMAR,SANJEEV000140@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1188,100,2023-03-13 14:30:01,2023-03-14 16:52:55
+969,57197,56515,225,SUNNA-2,Pradeep Malik,Pradeep000141@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1704,100,2023-03-13 14:30:01,2023-03-14 16:52:55
+970,57198,56515,225,K UPS DUNDUKHEDA,MANISH JAIN,MANISH000142@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8566,100,2023-03-13 14:30:02,2023-03-14 16:52:55
+971,57199,56515,225,DUNDUKHEDA 2,PARVIND KUMAR,PARVIND000143@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5616,100,2023-03-13 14:30:02,2023-03-14 16:52:55
+972,57200,56515,225,JHS GANGERU,MOHD TAHIR,MOHD000144@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5310,100,2023-03-13 14:30:02,2023-03-14 16:52:55
+973,57201,56515,225,PS BHARSI 2,PUSHPA DEVI,PUSHPA000145@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4990,100,2023-03-13 14:30:02,2023-03-14 16:52:55
+974,57202,56515,225,JHS BHARSI,DHIRAJ SINGH,DHIRAJ000146@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4831,100,2023-03-13 14:30:02,2023-03-14 16:52:55
+975,57203,56515,225,GARHI RAKHA,AKSHAY TOMAR,AKSHAY000147@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1481,100,2023-03-13 14:30:02,2023-03-14 16:52:55
+976,57204,56515,225,JHS DANGROL,MANOJ KUMAR,MANOJ000148@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6690,100,2023-03-13 14:30:02,2023-03-14 16:52:55
+977,57205,56515,225,JHS BHANERA,NOORHASAN,NOORHASAN000149@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8738,100,2023-03-13 14:30:03,2023-03-14 16:52:55
+978,57206,56515,225,KHANDRAWALI 1,NAVEEN KUMAR,NAVEEN000150@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2065,100,2023-03-13 14:30:03,2023-03-14 16:52:55
+979,57207,56515,225,BHAJU-1,Sanjiv Kumar,Sanjiv000151@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4667,100,2023-03-13 14:30:03,2023-03-14 16:52:55
+980,57208,56515,225,LISAD-2,Meera Rani,Meera000152@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2734,100,2023-03-13 14:30:03,2023-03-14 16:52:55
+981,57209,56515,225,KIWANA-2,Ajay Tomar,Ajay000153@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9159,100,2023-03-13 14:30:03,2023-03-14 16:52:55
+982,57210,56515,225,LISAD-1,Rohit Malik,Rohit000154@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9861,100,2023-03-13 14:30:03,2023-03-14 16:52:55
+983,57211,56515,225,JHS KANYA SUNNA,Rajkumar,Rajkumar000155@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1114,100,2023-03-13 14:30:04,2023-03-14 16:52:55
+984,57212,56515,225,LANK-3,Jitendra Kumar,Jitendra000156@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8289,100,2023-03-13 14:30:04,2023-03-14 16:52:55
+985,57213,56515,225,LANK-1,Suwasini,Suwasini000157@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9054,100,2023-03-13 14:30:04,2023-03-14 16:52:55
+986,57214,56515,225,BUTRARI-1,Sunil Kumar,Sunil000158@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9248,100,2023-03-13 14:30:04,2023-03-14 16:52:55
+987,57215,56515,225,MATNAWLI,Sanjeev Malik,Sanjeev000159@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,380,100,2023-03-13 14:30:04,2023-03-14 16:52:55
+988,57216,56515,225,BUTRARA-3,Dinesh Kumar,Dinesh000160@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9301,100,2023-03-13 14:30:04,2023-03-14 16:52:55
+989,57217,56515,225,KUDANA-3,Neelam,Neelam000161@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9130,100,2023-03-13 14:30:04,2023-03-14 16:52:55
+990,57218,56515,225,KRAUDA HATHI-1,Anuj Kumar,Anuj000162@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5852,100,2023-03-13 14:30:05,2023-03-14 16:52:55
+991,57219,56515,225,GANGERU-1,Dinkar,Dinkar000163@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3867,100,2023-03-13 14:30:05,2023-03-14 16:52:55
+992,57220,56515,225,BUTRARA-1,Ramanaresh,Ramanaresh000164@gmail.com,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,585,100,2023-03-13 14:30:05,2023-03-14 16:52:55
+993,57221,56515,225,AALDI-1,MEENU KUMARI,9917579009,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9354,100,2023-03-13 14:30:05,2023-03-14 16:52:55
+994,57222,56515,225,BRHAMKHEDA,JOGENDER CHAUHAN,9719000209,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5957,100,2023-03-13 14:30:05,2023-03-14 16:52:55
+995,57223,56515,225,DUDHAR,DEEPAK KUMAR,9359959771,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7199,100,2023-03-13 14:30:05,2023-03-14 16:52:55
+996,57224,56515,225,ELAM-1,SANJAY KUMAR,9997408930,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6209,100,2023-03-13 14:30:05,2023-03-14 16:52:55
+997,57225,56515,225,ELAM-2,DEVNDER SINGH,7982164232,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9953,100,2023-03-13 14:30:06,2023-03-14 16:52:55
+998,57226,56515,225,ELAM-3,ARVIND KUMAR,9411026629,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6998,100,2023-03-13 14:30:06,2023-03-14 16:52:55
+999,57227,56515,225,ESOPURTILA-1,SANGEETA,7351588408,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2863,100,2023-03-13 14:30:06,2023-03-14 16:52:55
+1000,57228,56515,225,GADISHYAM,SUDHIR KUMAR,8006171463,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6253,100,2023-03-13 14:30:06,2023-03-14 16:52:55
+1001,57229,56515,225,GARHI DAULIT,MOH. AABID,8941810565,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6600,100,2023-03-13 14:30:06,2023-03-14 16:52:55
+1002,57230,56515,225,GURJARPUR,ANUJ KUMAR,9997655736,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8172,100,2023-03-13 14:30:06,2023-03-14 16:52:55
+1003,57231,56515,225,ISLAMPUR GHASAULI,SANDEEP KUMAR,9997962131,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6751,100,2023-03-13 14:30:06,2023-03-14 16:52:55
+1004,57232,56515,225,JHS KANYA BHABISHA,SMT KAMLESH MALIK,9557540807,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9947,100,2023-03-13 14:30:07,2023-03-14 16:52:55
+1005,57233,56515,225,KANYA JHS CHADAW,SHRAVAN KUMAR,6396341125,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2849,100,2023-03-13 14:30:07,2023-03-14 16:52:55
+1006,57234,56515,225,KHANDRAWALI-2,ARUN DHAMA,8899275678,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,190,100,2023-03-13 14:30:07,2023-03-14 16:52:55
+1007,57235,56515,225,KHERA KURTAN,VIKAS MAAN,9837179129,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1160,100,2023-03-13 14:30:07,2023-03-14 16:52:55
+1008,57236,56515,225,LOHRIPUR,SMT MUKESH,9410493930,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9931,100,2023-03-13 14:30:07,2023-03-14 16:52:55
+1009,57237,56515,225,MALAKPUR,SANJAY KUMAR,9557357964,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9459,100,2023-03-13 14:30:07,2023-03-14 16:52:55
+1010,57238,56515,225,MUSTAFABAD,SAJID AHAMAD,9897338882,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9473,100,2023-03-13 14:30:07,2023-03-14 16:52:55
+1011,57239,56515,225,P.S. AMBEHTA,PRAVEEN KUMAR,7830006020,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4852,100,2023-03-13 14:30:08,2023-03-14 16:52:55
+1012,57240,56515,225,PIJAUKHARA,MEENAKSHI,9997527313,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9422,100,2023-03-13 14:30:08,2023-03-14 16:52:55
+1013,57241,56515,225,PS BHABISA-02,SHIKSHA MALIK,9058748483,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1092,100,2023-03-13 14:30:08,2023-03-14 16:52:55
+1014,57242,56515,225,PS BHABISA-03,ANSHU RANI,8958677202,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,813,100,2023-03-13 14:30:08,2023-03-14 16:52:55
+1015,57243,56515,225,PS HAJIPUR,UMA DHAMA,9758254525,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7787,100,2023-03-13 14:30:08,2023-03-14 16:52:55
+1016,57244,56515,225,PS KANIYAN-2,AKSHAY KUMAR,9557771110,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2782,100,2023-03-13 14:30:08,2023-03-14 16:52:55
+1017,57245,56515,225,PS NALA-1,SAISHTA PRAVEEN,9756337877,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2366,100,2023-03-13 14:30:08,2023-03-14 16:52:55
+1018,57246,56515,225,PS NALA-2,AJAY MALIK,9410455809,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6051,100,2023-03-13 14:30:09,2023-03-14 16:52:55
+1019,57247,56515,225,PS SALHA KHADI,GAJENDRA KUMAR,7088229701,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3711,100,2023-03-13 14:30:09,2023-03-14 16:52:55
+1020,57248,56515,225,PS SALPHA,SARITA,9759169192,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4468,100,2023-03-13 14:30:09,2023-03-14 16:52:55
+1021,57249,56515,225,RAMPUR KHERI,PARVEEN SINGH,9870678850,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3376,100,2023-03-13 14:30:09,2023-03-14 16:52:55
+1022,57250,56515,225,RASULPUR GUJRAN-1,RAJVEER SINGH,7409479530,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,604,100,2023-03-13 14:30:09,2023-03-14 16:52:55
+1023,57251,56515,225,BHAISANI ISLAM PURA-2,DILSHAD ANITA,9758914018,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,89,100,2023-03-13 14:30:09,2023-03-14 16:52:55
+1024,57252,56515,225,PS.BANTI KHERA,UPENDRA KUMAR,9759851919,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6019,100,2023-03-13 14:30:09,2023-03-14 16:52:55
+1025,57253,56515,225,JALALABAD-1,MAMTA,7830649795,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5658,100,2023-03-13 14:30:10,2023-03-14 16:52:55
+1026,57254,56515,225,PS BABRI,ANIL KUMAR SHARMA,8650173232,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5600,100,2023-03-13 14:30:10,2023-03-14 16:52:55
+1027,57255,56515,225,SONTA RASULPURA,MOH. IRFAN,9997655284,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1906,100,2023-03-13 14:30:10,2023-03-14 16:52:55
+1028,57256,56515,225,HASANPUR LUHARI-1,JULFIKAR ALI,9027738990,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9335,100,2023-03-13 14:30:10,2023-03-14 16:52:55
+1029,57257,56515,225,JALALABAD-2,BABITA,9897048930,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5726,100,2023-03-13 14:30:10,2023-03-14 16:52:55
+1030,57258,56515,225,PALTHERI,YOGENDRA PAL SINGH,8630943613,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7401,100,2023-03-13 14:30:10,2023-03-14 16:52:55
+1031,57259,56515,225,HASANPUR LUHARI-2,DEEPAK KUMAR PUNDIR,9528048601,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6508,100,2023-03-13 14:30:11,2023-03-14 16:52:55
+1032,57260,56515,225,KADER GARH,VINIT ARYA,9557794649,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,813,100,2023-03-13 14:30:11,2023-03-14 16:52:55
+1033,57261,56515,225,HARAR FATEHPUR-1,ARVIND KUMAR,9760617516,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4512,100,2023-03-13 14:30:11,2023-03-14 16:52:55
+1034,57262,56515,225,MANAKPURA,PUSHPENDRA KUMAR,9758109020,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1469,100,2023-03-13 14:30:11,2023-03-14 16:52:55
+1035,57263,56515,225,DEERA SOHJINI UMARPUR,SUKHPAL SINGH,8445333802,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,845,100,2023-03-13 14:30:11,2023-03-14 16:52:55
+1036,57264,56515,225,DABHERI,JAVED AKHTAR ANSARI,8445849877,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1980,100,2023-03-13 14:30:11,2023-03-14 16:52:55
+1037,57265,56515,225,JANIPUR,VIKAS SAINI,9917873441,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8016,100,2023-03-13 14:30:11,2023-03-14 16:52:55
+1038,57266,56515,225,YUNISPUR,RISHIRAJ,8171907405,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4743,100,2023-03-13 14:30:12,2023-03-14 16:52:55
+1039,57267,56515,225,PS GURANA,JASBEER SINGH,9058830333,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2898,100,2023-03-13 14:30:12,2023-03-14 16:52:55
+1040,57268,56515,225,BHANDAURA-2,CHANDVEER,9045170634,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9973,100,2023-03-13 14:30:12,2023-03-14 16:52:55
+1041,57269,56515,225,PS LATIFGARH,BABY SAINI,8449647626,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2687,100,2023-03-13 14:30:12,2023-03-14 16:52:55
+1042,57270,56515,225,MADALPUR-1,RACHITA SINGHAL,9219034934,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3334,100,2023-03-13 14:30:12,2023-03-14 16:52:55
+1043,57271,56515,225,NAUJAL-1,BIJENDRA KUMAR,9058178545,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4363,100,2023-03-13 14:30:12,2023-03-14 16:52:55
+1044,57272,56515,225,GANDEVADA-2,MAHENDRI DEVI,8958996210,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3509,100,2023-03-13 14:30:12,2023-03-14 16:52:55
+1045,57273,56515,225,PS MANAT,NAVEEN KUMAR,8650507876,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2289,100,2023-03-13 14:30:13,2023-03-14 16:52:55
+1046,57274,56515,225,JHS MASAVI,RAVINDER KUMAR,9554441505,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,62,100,2023-03-13 14:30:13,2023-03-14 16:52:55
+1047,57275,56515,225,JHS AMBEHTA YAKOOBPUR,ARUN KUMAR PANWAR,9012713284,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,577,100,2023-03-13 14:30:13,2023-03-14 16:52:55
+1048,57276,56515,225,JHS USMANPUR,VINOD KUMAR,7500049850,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4262,100,2023-03-13 14:30:13,2023-03-14 16:52:55
+1049,57277,56515,225,JHS KHERA GADAI,RAJIV KUMAR,9368833577,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7320,100,2023-03-13 14:30:13,2023-03-14 16:52:55
+1050,57278,56515,225,JHS GAUSGARH,VIVEK KUMAR MALIK,7455873834,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8025,100,2023-03-13 14:30:13,2023-03-14 16:52:55
+1051,57279,56515,225,JHS MADALPUR,VIPIN KUMAR,8630772727,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4309,100,2023-03-13 14:30:13,2023-03-14 16:52:55
+1052,57280,56515,225,JHS KHANPUR,MADHAVRAM SHARMA,9761924158,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1424,100,2023-03-13 14:30:14,2023-03-14 16:52:55
+1053,57281,56515,225,JHS GANDEVADA,SUBHASH CHAND,9012248495,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3946,100,2023-03-13 14:30:14,2023-03-14 16:52:55
+1054,57282,56515,225,JHS KHIYAWARI,RAJ SINGH,9412889648,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9516,100,2023-03-13 14:30:14,2023-03-14 16:52:55
+1055,57283,56515,225,JHS TITARASI,GOVIND KUMAR,9528048065,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,499,100,2023-03-13 14:30:14,2023-03-14 16:52:55
+1056,57284,56515,225,MOR MAJARA,VIKAS KUMAR,7599030854,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5710,100,2023-03-13 14:30:14,2023-03-14 16:52:55
+1057,57285,56515,225,BHANEDA UDDA,RAJNISH KUMAR,9756676464,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4006,100,2023-03-13 14:30:14,2023-03-14 16:52:55
+1058,57286,56515,225,DAKHAURI JAMALPURA,PARVIN KUMAR,9720481300,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3768,100,2023-03-13 14:30:14,2023-03-14 16:52:55
+1059,57287,56515,225,GARHI ABDULLA KHAN-1,ANJU DEVI,7500444627,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4675,100,2023-03-13 14:30:15,2023-03-14 16:52:55
+1060,57288,56515,225,MAHAVAT PURA,AMIT KUMAR,8279897663,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1283,100,2023-03-13 14:30:15,2023-03-14 16:52:55
+1061,57289,56515,225,P.S RASEED GARH,VIRENDRA KUMAR SAINI,9639612377,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8183,100,2023-03-13 14:30:15,2023-03-14 16:52:55
+1062,57290,56515,225,HARAR FATEHPUR-2,SEEMA RANI GAUR,9528421772,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9040,100,2023-03-13 14:30:15,2023-03-14 16:52:55
+1063,57291,56515,225,JHS SAUHAJANI UMARPURA,SHABNAM KUMARI,9084912455,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7605,100,2023-03-13 14:30:15,2023-03-14 16:52:55
+1064,57292,56515,225,JHS RAIPURA,NIRAJ KUMAR,9897415927,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5113,100,2023-03-13 14:30:15,2023-03-14 16:52:55
+1065,57293,56515,225,JHS UMAR PURA,PARVIN KUMAR,9756565365,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6412,100,2023-03-13 14:30:15,2023-03-14 16:52:55
+1066,57294,56515,225,JHS MAST GARH,VISHWAS CHAUDHARY,8859572644,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,828,100,2023-03-13 14:30:16,2023-03-14 16:52:55
+1067,57295,56515,225,JHS NOJALI,PUSHPENDRA KUMAR,9410449775,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7761,100,2023-03-13 14:30:16,2023-03-14 16:52:55
+1068,57296,56515,225,AGDIPUR,RAM KUMAR,7500198956,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7622,100,2023-03-13 14:30:16,2023-03-14 16:52:55
+1069,57297,56515,225,ALIPURA,NISHANT RAJ,7617618646,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2860,100,2023-03-13 14:30:16,2023-03-14 16:52:55
+1070,57298,56515,225,AUDREE,SANJAY KUMAR,7895131170,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8378,100,2023-03-13 14:30:16,2023-03-14 16:52:55
+1071,57299,56515,225,BEEBEEPUR JALALABAD,KULDEEP MALIK,9927510819,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7237,100,2023-03-13 14:30:16,2023-03-14 16:52:55
+1072,57300,56515,225,BHATU,MOHD MUKKARAM,8057833274,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1575,100,2023-03-13 14:30:16,2023-03-14 16:52:55
+1073,57301,56515,225,BIDALEE SAADAT JHS,VANDNA,8168443414,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1969,100,2023-03-13 14:30:17,2023-03-14 16:52:55
+1074,57302,56515,225,CHAUSANA,KARAN SINGH,9729249982,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7929,100,2023-03-13 14:30:17,2023-03-14 16:52:55
+1075,57303,56515,225,CHUNDHIYAREE,AVISH MALIK,9045870502,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5887,100,2023-03-13 14:30:17,2023-03-14 16:52:55
+1076,57304,56515,225,DARGHAPUR JHS.,ANITA,9675309076,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8840,100,2023-03-13 14:30:17,2023-03-14 16:52:55
+1077,57305,56515,225,DATHAIRA-1,NEERAJ BADSAR,9410470802,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9405,100,2023-03-13 14:30:17,2023-03-14 16:52:55
+1078,57306,56515,225,DULLA KHEREE-1,BABITA SINGH,9634248236,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4064,100,2023-03-13 14:30:17,2023-03-14 16:52:55
+1079,57307,56515,225,DULLA KHEREE-2,SWATI PANCHAL,9711397969,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8662,100,2023-03-13 14:30:17,2023-03-14 16:52:55
+1080,57308,56515,225,FATEHPUR,SHIVENDER,9837921609,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,112,100,2023-03-13 14:30:18,2023-03-14 16:52:55
+1081,57309,56515,225,GANGARAMPUR KHEDKEE,UPENDER DEV,7409399596,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8277,100,2023-03-13 14:30:18,2023-03-14 16:52:55
+1082,57310,56515,225,GARI HASANPUR,SACHIN KUMAR,7017055290,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7473,100,2023-03-13 14:30:18,2023-03-14 16:52:55
+1083,57311,56515,225,HARSANA,ARUN SIROHI,9456058553,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1428,100,2023-03-13 14:30:18,2023-03-14 16:52:55
+1084,57312,56515,225,HASANPUR,PARVEEN KUMAR,9837918414,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1866,100,2023-03-13 14:30:18,2023-03-14 16:52:55
+1085,57313,56515,225,HATHCHHOYA-1,RENUKA,7830639424,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4832,100,2023-03-13 14:30:18,2023-03-14 16:52:55
+1086,57314,56515,225,JAMALPUR,AMRESH DEVI,6395204564,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5862,100,2023-03-13 14:30:18,2023-03-14 16:52:55
+1087,57315,56515,225,JHINJHANA-2,PARUL,7310465582,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4016,100,2023-03-13 14:30:19,2023-03-14 16:52:55
+1088,57316,56515,225,JHS AJIJPUR,PUSHPENDER,9416714632,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6516,100,2023-03-13 14:30:19,2023-03-14 16:52:55
+1089,57317,56515,225,JHS AMBEHTA RIDAN,MOHAN LAL,9759616147,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6229,100,2023-03-13 14:30:19,2023-03-14 16:52:55
+1090,57318,56515,225,JHS BALLA MAZRA,BABU HASAN,9719394684,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,522,100,2023-03-13 14:30:19,2023-03-14 16:52:55
+1091,57319,56515,225,JHS BHAREE,RAMNIVAS,9720201478,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9018,100,2023-03-13 14:30:19,2023-03-14 16:52:55
+1092,57320,56515,225,JHS CHAUTRA,DEVENDRA,8433422544,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2311,100,2023-03-13 14:30:19,2023-03-14 16:52:55
+1093,57321,56515,225,JHS DHARMPURA,SANJEEV,9798084879,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9997,100,2023-03-13 14:30:19,2023-03-14 16:52:55
+1094,57322,56515,225,JHS DOKPURA,PAWAN VERMA,7060203747,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4810,100,2023-03-13 14:30:20,2023-03-14 16:52:55
+1095,57323,56515,225,JHS GAGOR,RAJAT VERMA,8394964770,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9993,100,2023-03-13 14:30:20,2023-03-14 16:52:55
+1096,57324,56515,225,JHS KABEERPUR,GAURAV MALIK,7037145483,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,449,100,2023-03-13 14:30:20,2023-03-14 16:52:55
+1097,57325,56515,225,JHS KERATU,AMRESH,9518641074,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9984,100,2023-03-13 14:30:20,2023-03-14 16:52:55
+1098,57326,56515,225,JHS KHANPUR KALAN,BASORAM,8077754144,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2789,100,2023-03-13 14:30:20,2023-03-14 16:52:55
+1099,57327,56515,225,JHS KHEDKEE,DHARMENDER SINGH,9410652603,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2554,100,2023-03-13 14:30:20,2023-03-14 16:52:55
+1100,57328,56515,225,JHS KHODSAMA,BABITA SINGH,9720149341,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5316,100,2023-03-13 14:30:20,2023-03-14 16:52:55
+1101,57329,56515,225,JHS MYAN KASBA,AKSHAY KUMAR,8930386425,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2209,100,2023-03-13 14:30:21,2023-03-14 16:52:55
+1102,57330,56515,225,JHS NAI NAGALA NAVEEN,VEERSAIN CHAUHAN,9557040104,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2908,100,2023-03-13 14:30:21,2023-03-14 16:52:55
+1103,57331,56515,225,JHS PHOONSGAR,NAVEEN,8057708205,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2433,100,2023-03-13 14:30:21,2023-03-14 16:52:55
+1104,57332,56515,225,JHS RAZAK NAGAR,ANITA,8439568512,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4577,100,2023-03-13 14:30:21,2023-03-14 16:52:55
+1105,57333,56515,225,JHS REDA,VIRENDER,9456487384,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9985,100,2023-03-13 14:30:21,2023-03-14 16:52:55
+1106,57334,56515,225,JHS SANPLA,MAHAVEER SINGH,9412807514,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6412,100,2023-03-13 14:30:21,2023-03-14 16:52:55
+1107,57335,56515,225,JHS UDPUR,MONA,7015599537,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1230,100,2023-03-13 14:30:21,2023-03-14 16:52:55
+1108,57336,56515,225,KANYA J.H.S. LAPRANA,RAVINDER KUMAR,9368076211,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5919,100,2023-03-13 14:30:22,2023-03-14 16:52:55
+1109,57337,56515,225,KANYA JHS TAPRANA,VIBHA RANI,9411031854,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6395,100,2023-03-13 14:30:22,2023-03-14 16:52:55
+1110,57338,56515,225,KHANPUR JATAN,SARIKA,6339794644,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7305,100,2023-03-13 14:30:22,2023-03-14 16:52:55
+1111,57339,56515,225,MALAINDEE-1,NEERAJ DEVI,9917048488,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4634,100,2023-03-13 14:30:22,2023-03-14 16:52:55
+1112,57340,56515,225,MALAINDEE-2,RENA DEVI,9058463604,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4448,100,2023-03-13 14:30:22,2023-03-14 16:52:55
+1113,57341,56515,225,OON-1,DEEPMALA,9759738757,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4048,100,2023-03-13 14:30:22,2023-03-14 16:52:55
+1114,57342,56515,225,P.S JAINPUR,KRISHAN PAL,9719231748,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9838,100,2023-03-13 14:30:22,2023-03-14 16:52:55
+1115,57343,56515,225,P.S PINDURA,SEEMA,8532935671,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,252,100,2023-03-13 14:30:23,2023-03-14 16:52:55
+1116,57344,56515,225,P.S. DERA SINGAPUR,RAHUL,9541765877,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6816,100,2023-03-13 14:30:23,2023-03-14 16:52:55
+1117,57345,56515,225,P.S. GUJJARPUR,RAVINDER,8938959107,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4237,100,2023-03-13 14:30:23,2023-03-14 16:52:55
+1118,57346,56515,225,P.S. MAJRABARI,VIPIN,8307010049,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7595,100,2023-03-13 14:30:23,2023-03-14 16:52:55
+1119,57347,56515,225,P.S. MALTI STORY JHINJHANA,RAMA JINDAL,9870648540,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8292,100,2023-03-13 14:30:23,2023-03-14 16:52:55
+1120,57348,56515,225,P.S. SUNDER NAGAR,ARVIND SAINI,9758265960,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4348,100,2023-03-13 14:30:23,2023-03-14 16:52:55
+1121,57349,56515,225,PANTHU PURA,JOGMINDER,8218694130,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9850,100,2023-03-13 14:30:24,2023-03-14 16:52:55
+1122,57350,56515,225,PEERKHERA,ASHISH KUMAR,7983851968,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3955,100,2023-03-13 14:30:24,2023-03-14 16:52:55
+1123,57351,56515,225,PS CHANDANPURI,BIRHAM SINGH,9758819050,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8944,100,2023-03-13 14:30:24,2023-03-14 16:52:55
+1124,57352,56515,225,PS LAXMANPURA,SUMAN LATA,9627298027,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2018,100,2023-03-13 14:30:24,2023-03-14 16:52:55
+1125,57353,56515,225,PS ODARI KHADAR,BABLI,7409031969,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6416,100,2023-03-13 14:30:24,2023-03-14 16:52:55
+1126,57354,56515,225,PURMAFEE-2,ARVIND KUMAR,7505503915,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5435,100,2023-03-13 14:30:24,2023-03-14 16:52:55
+1127,57355,56515,225,RAJHAD-1,KULDEEP SINGH,9719283965,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,588,100,2023-03-13 14:30:24,2023-03-14 16:52:55
+1128,57356,56515,225,RAJHAD-2,AYUSHI,9557419165,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7376,100,2023-03-13 14:30:25,2023-03-14 16:52:55
+1129,57357,56515,225,SAKAUTI JHS,KALPNA,9012643283,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9952,100,2023-03-13 14:30:25,2023-03-14 16:52:55
+1130,57358,56515,225,SHAMLI SHAMLA,KATAR SINGH,6395858726,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3236,100,2023-03-13 14:30:25,2023-03-14 16:52:55
+1131,57359,56515,225,SOOBREE,SHARVAN,9761230463,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5689,100,2023-03-13 14:30:25,2023-03-14 16:52:55
+1132,57360,56515,225,TISANG,RAJEEV SHARMA,9758918838,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8484,100,2023-03-13 14:30:25,2023-03-14 16:52:55
+1133,57361,56515,225,ULHAIHNEE,MINDER SINGH,9634486946,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9004,100,2023-03-13 14:30:25,2023-03-14 16:52:55
+1134,57362,56515,225,UPS DHINDHALEE,ASHWANI,9410858455,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9232,100,2023-03-13 14:30:25,2023-03-14 16:52:55
+1135,57363,56515,225,VED KHERI,KAPIL KUMAR,9639173618,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8946,100,2023-03-13 14:30:26,2023-03-14 16:52:55
+1136,57364,56515,225,PS BHOORA-3,Geeta,7981934926,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2262,100,2023-03-13 14:30:26,2023-03-14 16:52:55
+1137,57365,56515,225,PS PANJEETH,Gulab Singh,9927274028,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2449,100,2023-03-13 14:30:26,2023-03-14 16:52:55
+1138,57366,56515,225,MUDET KALAN,Rishipal Singh,9058190165,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3408,100,2023-03-13 14:30:26,2023-03-14 16:52:55
+1139,57367,56515,225,JHANPURA-2,Naresh Pal Verma,9837564052,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3925,100,2023-03-13 14:30:26,2023-03-14 16:52:55
+1140,57368,56515,225,P.S. BADLU GHAR,Rakesh Saini,9456669226,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4759,100,2023-03-13 14:30:26,2023-03-14 16:52:55
+1141,57369,56515,225,P.S PAWTI KALA-3,Kashmir Singh,9675491647,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2244,100,2023-03-13 14:30:26,2023-03-14 16:52:55
+1142,57370,56515,225,PS UNCHAGAWAN,Manoj Kumar,9927190882,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4708,100,2023-03-13 14:30:27,2023-03-14 16:52:55
+1143,57371,56515,225,KASAIRWA KHURD-1,Himai,9759636036,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8764,100,2023-03-13 14:30:27,2023-03-14 16:52:55
+1144,57372,56515,225,PS RAMADA PUCHADI,Anjali,9728941043,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8099,100,2023-03-13 14:30:27,2023-03-14 16:52:55
+1145,57373,56515,225,PS DAMERI KHURD,Mohd. Hisham,9760498683,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,250,100,2023-03-13 14:30:27,2023-03-14 16:52:55
+1146,57374,56515,225,PAVTI KALAN -2,Sapna Rani,8449911147,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8800,100,2023-03-13 14:30:27,2023-03-14 16:52:55
+1147,57375,56515,225,BHOORA-2,Anjeev Kumar,9758852294,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8045,100,2023-03-13 14:30:27,2023-03-14 16:52:55
+1148,57376,56515,225,KASAIRWA KALAN-2,Vikas Vishnoi,9917677637,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5921,100,2023-03-13 14:30:27,2023-03-14 16:52:55
+1149,57377,56515,225,TITOLI-2,Ritu Rani,9012575556,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1866,100,2023-03-13 14:30:28,2023-03-14 16:52:55
+1150,57378,56515,225,PS MUDET KALAN-2,Neelam,8941806649,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8509,100,2023-03-13 14:30:28,2023-03-14 16:52:55
+1151,57379,56515,225,BADHEV-2,Kavita,9758073113,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7362,100,2023-03-13 14:30:28,2023-03-14 16:52:55
+1152,57380,56515,225,JHAR KHERI,Shahzad,7060203828,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6885,100,2023-03-13 14:30:28,2023-03-14 16:52:55
+1153,57381,56515,225,JHS MANDAWAR,Arvind Kumar,9690222544,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2670,100,2023-03-13 14:30:28,2023-03-14 16:52:55
+1154,57382,56515,225,JHS JAHNPURA,Naseem,9837526856,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4155,100,2023-03-13 14:30:28,2023-03-14 16:52:55
+1155,57383,56515,225,JHS BADHEV,Kiran,9760902538,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,177,100,2023-03-13 14:30:28,2023-03-14 16:52:55
+1156,57384,56515,225,JHS PAVTI KALA,Sajid Ali,9927578100,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8552,100,2023-03-13 14:30:29,2023-03-14 16:52:55
+1157,57385,56515,225,KANYA JHS MANNA MAJARA,Praveen Zehra,9319521988,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6987,100,2023-03-13 14:30:29,2023-03-14 16:52:55
+1158,57386,56515,225,JHS RAMDA,Mukim Elahi,9897048535,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7065,100,2023-03-13 14:30:29,2023-03-14 16:52:55
+1159,57387,56515,225,JHS AKBERPUR SUNHTI,Amit Tomar,9997530457,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9343,100,2023-03-13 14:30:29,2023-03-14 16:52:55
+1160,57388,56515,225,JHS NAGLA RAI,Raj Kumar,9997203255,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7898,100,2023-03-13 14:30:29,2023-03-14 16:52:55
+1161,57389,56515,225,JHS AIRTI,Radha Rani,7037669230,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5471,100,2023-03-13 14:30:29,2023-03-14 16:52:55
+1162,57390,56515,225,KANYA JHS HINGO KHARI,Pawan Kumar,9897974483,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5483,100,2023-03-13 14:30:29,2023-03-14 16:52:55
+1163,57391,56515,225,TITERVARA-1,Sanzida,7060203816,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3970,100,2023-03-13 14:30:30,2023-03-14 16:52:55
+1164,57392,56515,225,BRALA,Sanjay Kumar,9927707613,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3670,100,2023-03-13 14:30:30,2023-03-14 16:52:55
+1165,57393,56515,225,KAIRANA DHEAT,Shivani Agarwal,9997639477,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5165,100,2023-03-13 14:30:30,2023-03-14 16:52:55
+1166,57394,56515,225,GOGWAN - 2,Sanjeev Kumar,8006727405,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8130,100,2023-03-13 14:30:30,2023-03-14 16:52:55
+1167,57395,56515,225,BUCHCHA KHERI-2,Brijesh Kumar,9927240930,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9255,100,2023-03-13 14:30:30,2023-03-14 16:52:55
+1168,57396,56515,225,BUCHCHA KHERI-1,Haroon,9756404345,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8857,100,2023-03-13 14:30:30,2023-03-14 16:52:55
+1169,57397,56515,225,B.B.PUR HTIYA,Priyanka Panwar,9639210694,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5280,100,2023-03-13 14:30:31,2023-03-14 16:52:55
+1170,57398,56515,225,JHS ALIPUR,Charan Singh,9917748806,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1630,100,2023-03-13 14:30:31,2023-03-14 16:52:55
+1171,57399,56515,225,JHS BUDHUPURA,Yatendra Singh,9456895405,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,9749,100,2023-03-13 14:30:31,2023-03-14 16:52:55
+1172,57400,56515,225,KANYA JHS TITERVARA,Sanjeev Sharma,9758122114,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6680,100,2023-03-13 14:30:31,2023-03-14 16:52:55
+1173,57401,56515,225,KANYA JHS BHOORA,Ikram,9917644740,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5221,100,2023-03-13 14:30:31,2023-03-14 16:52:55
+1174,57402,56515,225,BANAT-1,SHWETA CHAUDHARY,9411986610,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5842,100,2023-03-13 14:30:31,2023-03-14 16:52:55
+1175,57403,56515,225,SIKKA,MANJU,8958113855,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6697,100,2023-03-13 14:30:31,2023-03-14 16:52:55
+1176,57404,56515,225,BALWA-1,MANISH KUMAR,8532071048,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7169,100,2023-03-13 14:30:32,2023-03-14 16:52:55
+1177,57405,56515,225,KHARI KRMU-2,ARZOO ARYA,9927681490,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,2015,100,2023-03-13 14:30:32,2023-03-14 16:52:55
+1178,57406,56515,225,BALWA-2,BIJENDRA SINGH,9457051850,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,1040,100,2023-03-13 14:30:32,2023-03-14 16:52:55
+1179,57407,56515,225,PS BALWA-3,SANJEEV KUMAR,8859757876,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6051,100,2023-03-13 14:30:32,2023-03-14 16:52:55
+1180,57408,56515,225,KHARI KRMU-1,SUMAN,9675183831,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,5364,100,2023-03-13 14:30:32,2023-03-14 16:52:55
+1181,57409,56515,225,BANAT-2,UMA RANI,7017852321,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7402,100,2023-03-13 14:30:32,2023-03-14 16:52:55
+1182,57410,56515,225,KRAUDA HATHI-2,HARVINDER,8958217356,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,8792,100,2023-03-13 14:30:32,2023-03-14 16:52:55
+1183,57411,56515,225,JHAL-2,SUDESH KUMAR,7466976820,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7687,100,2023-03-13 14:30:33,2023-03-14 16:52:55
+1184,57412,56515,225,GOMTI PUR,POONAM,9412312840,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3165,100,2023-03-13 14:30:33,2023-03-14 16:52:55
+1185,57413,56515,225,GOHARNI-2,MENNU,9457133804,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4547,100,2023-03-13 14:30:33,2023-03-14 16:52:55
+1186,57414,56515,225,BHAWRI-2,LALIT KUMAR,7351897123,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3037,100,2023-03-13 14:30:33,2023-03-14 16:52:55
+1187,57415,56515,225,JALALPUR,VINOD KUMAR,9997780180,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,468,100,2023-03-13 14:30:33,2023-03-14 16:52:55
+1188,57416,56515,225,BHAWRI-1,BABITA JAWLA,9627297643,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7548,100,2023-03-13 14:30:33,2023-03-14 16:52:55
+1189,57417,56515,225,JHS ADAMPUR,GURMEET KAUR,8650168601,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4835,100,2023-03-13 14:30:33,2023-03-14 16:52:55
+1190,57418,56515,225,SILAWAR-1,SANGEETA KUMARI,9760454531,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,4233,100,2023-03-13 14:30:34,2023-03-14 16:52:55
+1191,57419,56515,225,KHANPUR,SANDEEP KUMAR,9897099072,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,3800,100,2023-03-13 14:30:34,2023-03-14 16:52:55
+1192,57420,56515,225,MAHRAM PUR,JANESHWAR PRASAD,9837062293,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,7021,100,2023-03-13 14:30:34,2023-03-14 16:52:55
+1193,57421,56515,225,PURVA M ADAMIK BUTRARA,RAMNARESH,9927539450,,NULL,NULL,NULL,1,31,684,"16,17,49,50",247776,6459,100,2023-03-13 14:30:34,2023-03-14 16:52:55
+1194,57744,56515,225,shamlitest,t t,ter@gmail.com,7857857852,,,,1,31,589,"16,17,49,50",226004,shamlitest@123,100,2023-03-14 15:55:20,2023-03-14 16:52:55
+1195,58740,58704,226,LC1,Literacy Campus 1,campus1@globalmail.in,7007100001,,,,1,31,589,"17,50",226015,literacy_campus1,100,2023-03-15 18:01:40,2023-04-11 19:51:43
