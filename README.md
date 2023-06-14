@@ -13,6 +13,9 @@ The final presentation, presented to TWB and Devi Sansthan in May 2023, can also
 
 ## question_generation
 ### Contents:
+- **Text-based question generation code** in the form of an .ipynb which can be downloadable on your local device and run through your text editor.
+- **Image-based question generation code** in the form of an .ipynb which can be downloadable on your local device and run through your text editor.
+- **Web-scraping code** in the form of an .ipynb which can be downloadable on your local device and run through your text editor.
 
 ## student_analytics
 ### Contents:
